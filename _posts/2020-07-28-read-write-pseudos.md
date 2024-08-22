@@ -10,5 +10,5 @@ The `:read-only` and `:read-write` CSS pseudo-classes match elements that are re
 
 ### Source features
 
-- ``css.selectors.read-only [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.read-only)``
-- ``css.selectors.read-write [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.read-write)``
+- ``css.selectors.read-only`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.read-only)
+- ``css.selectors.read-write`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.read-write)

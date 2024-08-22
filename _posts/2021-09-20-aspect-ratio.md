@@ -10,6 +10,6 @@ The `aspect-ratio` CSS property controls the width-to-height ratio of elements. 
 
 ### Source features
 
-- ``html.elements.video.aspect_ratio_computed_from_attributes [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.video.aspect_ratio_computed_from_attributes)``
-- ``html.elements.img.aspect_ratio_computed_from_attributes [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.img.aspect_ratio_computed_from_attributes)``
-- ``css.properties.aspect-ratio [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.aspect-ratio)``
+- ``html.elements.video.aspect_ratio_computed_from_attributes`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.video.aspect_ratio_computed_from_attributes)
+- ``html.elements.img.aspect_ratio_computed_from_attributes`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.img.aspect_ratio_computed_from_attributes)
+- ``css.properties.aspect-ratio`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.aspect-ratio)

@@ -10,5 +10,5 @@ The `fill()` method of arrays and typed arrays sets all or some items of an arra
 
 ### Source features
 
-- ``javascript.builtins.Array.fill [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.fill)``
-- ``javascript.builtins.TypedArray.fill [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.fill)``
+- ``javascript.builtins.Array.fill`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.fill)
+- ``javascript.builtins.TypedArray.fill`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.fill)

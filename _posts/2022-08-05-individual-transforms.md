@@ -10,6 +10,6 @@ Transform elements with separate `translate`, `rotate`, and `scale` CSS properti
 
 ### Source features
 
-- ``css.properties.rotate [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.rotate)``
-- ``css.properties.scale [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.scale)``
-- ``css.properties.translate [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.translate)``
+- ``css.properties.rotate`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.rotate)
+- ``css.properties.scale`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.scale)
+- ``css.properties.translate`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.translate)

@@ -10,12 +10,12 @@ The `overflow` CSS property sets the behavior for when content doesn't fit in an
 
 ### Source features
 
-- ``css.properties.overflow [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow)``
-- ``css.types.overflow [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.overflow)``
-- ``css.properties.overflow-x [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow-x)``
-- ``css.properties.overflow-y [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow-y)``
-- ``css.properties.overflow.multiple_keywords [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow.multiple_keywords)``
-- ``css.properties.overflow-x.clip [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow-x.clip)``
-- ``css.properties.overflow-y.clip [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow-y.clip)``
-- ``css.properties.overflow.clip [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow.clip)``
-- ``css.types.overflow.clip [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.overflow.clip)``
+- ``css.properties.overflow`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow)
+- ``css.types.overflow`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.overflow)
+- ``css.properties.overflow-x`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow-x)
+- ``css.properties.overflow-y`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow-y)
+- ``css.properties.overflow.multiple_keywords`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow.multiple_keywords)
+- ``css.properties.overflow-x.clip`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow-x.clip)
+- ``css.properties.overflow-y.clip`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow-y.clip)
+- ``css.properties.overflow.clip`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.overflow.clip)
+- ``css.types.overflow.clip`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.overflow.clip)

@@ -10,4 +10,4 @@ The `preservesPitch` property for `<audio>` or `<video>` adjusts the pitch of au
 
 ### Source features
 
-- ``api.HTMLMediaElement.preservesPitch [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLMediaElement.preservesPitch)``
+- ``api.HTMLMediaElement.preservesPitch`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLMediaElement.preservesPitch)

@@ -10,4 +10,4 @@ The `Promise.withResolvers()` static method is an alternative to the `Promise()`
 
 ### Source features
 
-- ``javascript.builtins.Promise.withResolvers [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Promise.withResolvers)``
+- ``javascript.builtins.Promise.withResolvers`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Promise.withResolvers)

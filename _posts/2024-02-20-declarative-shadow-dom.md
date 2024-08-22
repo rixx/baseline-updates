@@ -10,5 +10,5 @@ The `shadowrootmode` attribute on `<template>` creates a shadow root without the
 
 ### Source features
 
-- ``api.HTMLTemplateElement.shadowRootMode [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLTemplateElement.shadowRootMode)``
-- ``html.elements.template.shadowrootmode [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.template.shadowrootmode)``
+- ``api.HTMLTemplateElement.shadowRootMode`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLTemplateElement.shadowRootMode)
+- ``html.elements.template.shadowrootmode`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.template.shadowrootmode)

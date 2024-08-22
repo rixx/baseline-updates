@@ -10,15 +10,15 @@ tags: baseline-high resource-timing
 
 ### Source features
 
-- ``api.PerformanceResourceTiming [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming)``
-- ``api.PerformanceResourceTiming.connectEnd [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.connectEnd)``
-- ``api.PerformanceResourceTiming.connectStart [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.connectStart)``
-- ``api.PerformanceResourceTiming.domainLookupEnd [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.domainLookupEnd)``
-- ``api.PerformanceResourceTiming.domainLookupStart [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.domainLookupStart)``
-- ``api.PerformanceResourceTiming.fetchStart [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.fetchStart)``
-- ``api.PerformanceResourceTiming.initiatorType [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.initiatorType)``
-- ``api.PerformanceResourceTiming.redirectEnd [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.redirectEnd)``
-- ``api.PerformanceResourceTiming.redirectStart [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.redirectStart)``
-- ``api.PerformanceResourceTiming.requestStart [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.requestStart)``
-- ``api.PerformanceResourceTiming.responseEnd [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.responseEnd)``
-- ``api.PerformanceResourceTiming.responseStart [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.responseStart)``
+- ``api.PerformanceResourceTiming`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming)
+- ``api.PerformanceResourceTiming.connectEnd`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.connectEnd)
+- ``api.PerformanceResourceTiming.connectStart`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.connectStart)
+- ``api.PerformanceResourceTiming.domainLookupEnd`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.domainLookupEnd)
+- ``api.PerformanceResourceTiming.domainLookupStart`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.domainLookupStart)
+- ``api.PerformanceResourceTiming.fetchStart`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.fetchStart)
+- ``api.PerformanceResourceTiming.initiatorType`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.initiatorType)
+- ``api.PerformanceResourceTiming.redirectEnd`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.redirectEnd)
+- ``api.PerformanceResourceTiming.redirectStart`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.redirectStart)
+- ``api.PerformanceResourceTiming.requestStart`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.requestStart)
+- ``api.PerformanceResourceTiming.responseEnd`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.responseEnd)
+- ``api.PerformanceResourceTiming.responseStart`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.responseStart)

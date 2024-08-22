@@ -10,7 +10,7 @@ Autonomous custom elements are HTML elements with a hyphenated tag name (like `<
 
 ### Source features
 
-- ``css.selectors.defined [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.defined)``
-- ``api.CustomElementRegistry [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CustomElementRegistry)``
-- ``api.CustomElementRegistry.define [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CustomElementRegistry.define)``
-- ``api.Window.customElements [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Window.customElements)``
+- ``css.selectors.defined`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.defined)
+- ``api.CustomElementRegistry`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CustomElementRegistry)
+- ``api.CustomElementRegistry.define`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CustomElementRegistry.define)
+- ``api.Window.customElements`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Window.customElements)

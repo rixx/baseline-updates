@@ -10,10 +10,10 @@ The `sctp` object on `RTCPeerConnection` represents the negotiated SCTP transpor
 
 ### Source features
 
-- ``api.RTCPeerConnection.sctp [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCPeerConnection.sctp)``
-- ``api.RTCSctpTransport [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport)``
-- ``api.RTCSctpTransport.maxChannels [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport.maxChannels)``
-- ``api.RTCSctpTransport.maxMessageSize [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport.maxMessageSize)``
-- ``api.RTCSctpTransport.state [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport.state)``
-- ``api.RTCSctpTransport.statechange_event [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport.statechange_event)``
-- ``api.RTCSctpTransport.transport [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport.transport)``
+- ``api.RTCPeerConnection.sctp`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCPeerConnection.sctp)
+- ``api.RTCSctpTransport`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport)
+- ``api.RTCSctpTransport.maxChannels`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport.maxChannels)
+- ``api.RTCSctpTransport.maxMessageSize`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport.maxMessageSize)
+- ``api.RTCSctpTransport.state`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport.state)
+- ``api.RTCSctpTransport.statechange_event`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport.statechange_event)
+- ``api.RTCSctpTransport.transport`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.RTCSctpTransport.transport)

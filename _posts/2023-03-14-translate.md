@@ -10,5 +10,5 @@ The `translate` HTML attribute marks whether an element's text should be transla
 
 ### Source features
 
-- ``api.HTMLElement.translate [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLElement.translate)``
-- ``html.global_attributes.translate [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.global_attributes.translate)``
+- ``api.HTMLElement.translate`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLElement.translate)
+- ``html.global_attributes.translate`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.global_attributes.translate)

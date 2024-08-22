@@ -10,7 +10,7 @@ The `background-clip` CSS property sets the extent of the background: the paddin
 
 ### Source features
 
-- ``css.properties.background-clip [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.background-clip)``
-- ``css.properties.background-clip.border-box [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.background-clip.border-box)``
-- ``css.properties.background-clip.content-box [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.background-clip.content-box)``
-- ``css.properties.background-clip.padding-box [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.background-clip.padding-box)``
+- ``css.properties.background-clip`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.background-clip)
+- ``css.properties.background-clip.border-box`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.background-clip.border-box)
+- ``css.properties.background-clip.content-box`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.background-clip.content-box)
+- ``css.properties.background-clip.padding-box`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.background-clip.padding-box)

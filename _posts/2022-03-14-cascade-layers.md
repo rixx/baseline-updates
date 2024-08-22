@@ -10,10 +10,10 @@ The `@layer` CSS at-rule avoids specificity conflicts by providing priority leve
 
 ### Source features
 
-- ``api.CSSImportRule.layerName [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CSSImportRule.layerName)``
-- ``api.CSSLayerBlockRule [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CSSLayerBlockRule)``
-- ``api.CSSLayerBlockRule.name [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CSSLayerBlockRule.name)``
-- ``api.CSSLayerStatementRule [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CSSLayerStatementRule)``
-- ``api.CSSLayerStatementRule.nameList [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CSSLayerStatementRule.nameList)``
-- ``css.at-rules.import.layer [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.at-rules.import.layer)``
-- ``css.at-rules.layer [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.at-rules.layer)``
+- ``api.CSSImportRule.layerName`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CSSImportRule.layerName)
+- ``api.CSSLayerBlockRule`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CSSLayerBlockRule)
+- ``api.CSSLayerBlockRule.name`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CSSLayerBlockRule.name)
+- ``api.CSSLayerStatementRule`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CSSLayerStatementRule)
+- ``api.CSSLayerStatementRule.nameList`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CSSLayerStatementRule.nameList)
+- ``css.at-rules.import.layer`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.at-rules.import.layer)
+- ``css.at-rules.layer`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.at-rules.layer)

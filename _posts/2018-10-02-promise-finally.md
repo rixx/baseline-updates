@@ -10,4 +10,4 @@ The promise `finally()` method executes a function when the promise settles (res
 
 ### Source features
 
-- ``javascript.builtins.Promise.finally [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Promise.finally)``
+- ``javascript.builtins.Promise.finally`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Promise.finally)

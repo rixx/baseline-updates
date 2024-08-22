@@ -10,6 +10,6 @@ The `font-synthesis-style` CSS property sets whether or not the browser should s
 
 ### Source features
 
-- ``css.properties.font-synthesis-style [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-style)``
-- ``css.properties.font-synthesis-style.auto [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-style.auto)``
-- ``css.properties.font-synthesis-style.none [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-style.none)``
+- ``css.properties.font-synthesis-style`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-style)
+- ``css.properties.font-synthesis-style.auto`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-style.auto)
+- ``css.properties.font-synthesis-style.none`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-style.none)

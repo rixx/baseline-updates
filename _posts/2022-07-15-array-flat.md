@@ -10,5 +10,5 @@ The `flat()` and `flatMap()` methods for arrays creates a new array such that ea
 
 ### Source features
 
-- ``javascript.builtins.Array.flat [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.flat)``
-- ``javascript.builtins.Array.flatMap [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.flatMap)``
+- ``javascript.builtins.Array.flat`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.flat)
+- ``javascript.builtins.Array.flatMap`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.flatMap)

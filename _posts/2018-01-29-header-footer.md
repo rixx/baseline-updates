@@ -10,5 +10,5 @@ The `<header>` and `<footer>` HTML elements represent content that precedes and 
 
 ### Source features
 
-- ``html.elements.footer [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.footer)``
-- ``html.elements.header [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.header)``
+- ``html.elements.footer`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.footer)
+- ``html.elements.header`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.header)

@@ -10,4 +10,4 @@ The `contain: style` CSS declaration permits the browser to avoid slower layout 
 
 ### Source features
 
-- ``css.properties.contain.style [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.contain.style)``
+- ``css.properties.contain.style`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.contain.style)

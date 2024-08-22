@@ -10,5 +10,5 @@ The `color()` function defines a color within a given color space. Wide gamut co
 
 ### Source features
 
-- ``css.types.color.color [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.color.color)``
-- ``css.types.color.color.mixed_type_parameters [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.color.color.mixed_type_parameters)``
+- ``css.types.color.color`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.color.color)
+- ``css.types.color.color.mixed_type_parameters`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.color.color.mixed_type_parameters)

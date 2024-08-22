@@ -10,8 +10,8 @@ The `navigator.permissions` API checks whether a permission, such as access to g
 
 ### Source features
 
-- ``api.Navigator.permissions [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Navigator.permissions)``
-- ``api.PermissionStatus [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PermissionStatus)``
-- ``api.Permissions [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Permissions)``
-- ``api.Permissions.query [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Permissions.query)``
-- ``api.PermissionStatus.state [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PermissionStatus.state)``
+- ``api.Navigator.permissions`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Navigator.permissions)
+- ``api.PermissionStatus`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PermissionStatus)
+- ``api.Permissions`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Permissions)
+- ``api.Permissions.query`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Permissions.query)
+- ``api.PermissionStatus.state`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PermissionStatus.state)

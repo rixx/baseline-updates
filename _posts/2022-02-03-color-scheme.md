@@ -10,7 +10,7 @@ The `color-scheme` CSS property sets which color schemes (light or dark) an elem
 
 ### Source features
 
-- ``html.elements.meta.name.color-scheme [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.meta.name.color-scheme)``
-- ``css.properties.color-scheme [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.color-scheme)``
-- ``css.properties.color-scheme.only_dark [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.color-scheme.only_dark)``
-- ``css.properties.color-scheme.only_light [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.color-scheme.only_light)``
+- ``html.elements.meta.name.color-scheme`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.meta.name.color-scheme)
+- ``css.properties.color-scheme`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.color-scheme)
+- ``css.properties.color-scheme.only_dark`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.color-scheme.only_dark)
+- ``css.properties.color-scheme.only_light`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.color-scheme.only_light)

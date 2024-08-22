@@ -10,7 +10,7 @@ The `Promise.any()` static method returns a promise that fulfills as soon as the
 
 ### Source features
 
-- ``javascript.builtins.AggregateError [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.AggregateError)``
-- ``javascript.builtins.AggregateError.AggregateError [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.AggregateError.AggregateError)``
-- ``javascript.builtins.AggregateError.errors [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.AggregateError.errors)``
-- ``javascript.builtins.Promise.any [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Promise.any)``
+- ``javascript.builtins.AggregateError`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.AggregateError)
+- ``javascript.builtins.AggregateError.AggregateError`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.AggregateError.AggregateError)
+- ``javascript.builtins.AggregateError.errors`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.AggregateError.errors)
+- ``javascript.builtins.Promise.any`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Promise.any)

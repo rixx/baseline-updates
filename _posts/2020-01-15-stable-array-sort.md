@@ -10,4 +10,4 @@ Stable array sort() function
 
 ### Source features
 
-- ``javascript.builtins.Array.sort.stable_sorting [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.sort.stable_sorting)``
+- ``javascript.builtins.Array.sort.stable_sorting`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.sort.stable_sorting)

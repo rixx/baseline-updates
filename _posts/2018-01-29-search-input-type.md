@@ -10,4 +10,4 @@ The `<input>` HTML element with the `type="search"` attribute represents a text 
 
 ### Source features
 
-- ``html.elements.input.type_search [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.input.type_search)``
+- ``html.elements.input.type_search`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.input.type_search)

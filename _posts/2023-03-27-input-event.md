@@ -10,11 +10,11 @@ The `input` event fires when a form control changes or an element with the `cont
 
 ### Source features
 
-- ``api.Element.input_event [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Element.input_event)``
-- ``api.InputEvent [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent)``
-- ``api.InputEvent.InputEvent [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.InputEvent)``
-- ``api.InputEvent.inputType [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.inputType)``
-- ``api.InputEvent.data [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.data)``
-- ``api.InputEvent.dataTransfer [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.dataTransfer)``
-- ``api.InputEvent.getTargetRanges [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.getTargetRanges)``
-- ``api.InputEvent.isComposing [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.isComposing)``
+- ``api.Element.input_event`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Element.input_event)
+- ``api.InputEvent`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent)
+- ``api.InputEvent.InputEvent`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.InputEvent)
+- ``api.InputEvent.inputType`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.inputType)
+- ``api.InputEvent.data`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.data)
+- ``api.InputEvent.dataTransfer`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.dataTransfer)
+- ``api.InputEvent.getTargetRanges`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.getTargetRanges)
+- ``api.InputEvent.isComposing`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.InputEvent.isComposing)

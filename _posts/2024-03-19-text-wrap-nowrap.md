@@ -10,5 +10,5 @@ The `text-wrap: nowrap` CSS declaration prevents text breaking into multiple lin
 
 ### Source features
 
-- ``css.properties.text-wrap.nowrap [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.text-wrap.nowrap)``
-- ``css.properties.text-wrap.wrap [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.text-wrap.wrap)``
+- ``css.properties.text-wrap.nowrap`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.text-wrap.nowrap)
+- ``css.properties.text-wrap.wrap`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.text-wrap.wrap)

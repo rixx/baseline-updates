@@ -10,5 +10,5 @@ The `of` syntax for the `:nth-child()` and `:nth-last-child()` CSS functional ps
 
 ### Source features
 
-- ``css.selectors.nth-child.of_syntax [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.nth-child.of_syntax)``
-- ``css.selectors.nth-last-child.of_syntax [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.nth-last-child.of_syntax)``
+- ``css.selectors.nth-child.of_syntax`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.nth-child.of_syntax)
+- ``css.selectors.nth-last-child.of_syntax`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.nth-last-child.of_syntax)

@@ -10,4 +10,4 @@ The `AbortSignal.any()` static method combines an iterable of abort signals into
 
 ### Source features
 
-- ``api.AbortSignal.any_static [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.AbortSignal.any_static)``
+- ``api.AbortSignal.any_static`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.AbortSignal.any_static)

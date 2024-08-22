@@ -89,6 +89,6 @@ tags: {tags}
     if "compat_features" in feature["data"]:
         content += f"### Source features\n\n"
         for compat_feature in feature["data"]["compat_features"]:
-            content += f"- ``{compat_feature} [[mdn]](https://https://developer.mozilla.org/en-US/search?q={compat_feature})``\n"
+            content += f"- ``{compat_feature}`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q={compat_feature})\n"
     with open(md_path, "w") as f:
         f.write(content)

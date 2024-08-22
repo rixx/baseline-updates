@@ -10,4 +10,4 @@ The `Array.isArray()` static method checks whether a value is an array.
 
 ### Source features
 
-- ``javascript.builtins.Array.isArray [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.isArray)``
+- ``javascript.builtins.Array.isArray`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.isArray)

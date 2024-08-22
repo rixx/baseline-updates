@@ -10,8 +10,8 @@ JavaScript modules allow code to be organized into reusable units. Modules use `
 
 ### Source features
 
-- ``html.elements.script.type.module [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.script.type.module)``
-- ``javascript.statements.export [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.export)``
-- ``javascript.statements.export.default [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.export.default)``
-- ``javascript.statements.import [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.import)``
-- ``html.elements.script.nomodule [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.script.nomodule)``
+- ``html.elements.script.type.module`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.script.type.module)
+- ``javascript.statements.export`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.export)
+- ``javascript.statements.export.default`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.export.default)
+- ``javascript.statements.import`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.import)
+- ``html.elements.script.nomodule`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.script.nomodule)

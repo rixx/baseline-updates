@@ -10,4 +10,4 @@ The `:focus-visible` CSS pseudo-class selects elements that match the `:focus` p
 
 ### Source features
 
-- ``css.selectors.focus-visible [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.focus-visible)``
+- ``css.selectors.focus-visible`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.focus-visible)

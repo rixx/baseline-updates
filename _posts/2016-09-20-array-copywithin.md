@@ -10,5 +10,5 @@ The `copyWithin()` method of arrays and typed arrays shifts or copies items of a
 
 ### Source features
 
-- ``javascript.builtins.Array.copyWithin [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.copyWithin)``
-- ``javascript.builtins.TypedArray.copyWithin [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.copyWithin)``
+- ``javascript.builtins.Array.copyWithin`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.copyWithin)
+- ``javascript.builtins.TypedArray.copyWithin`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.copyWithin)

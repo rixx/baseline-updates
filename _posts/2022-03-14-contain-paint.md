@@ -10,4 +10,4 @@ The `contain: paint` CSS declaration prevents an element's descendants from bein
 
 ### Source features
 
-- ``css.properties.contain.paint [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.contain.paint)``
+- ``css.properties.contain.paint`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.contain.paint)

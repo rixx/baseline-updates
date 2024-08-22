@@ -10,7 +10,7 @@ Arrays are iterable with the `for…of` statement and enumerable with the method
 
 ### Source features
 
-- ``javascript.builtins.Array.entries [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.entries)``
-- ``javascript.builtins.Array.keys [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.keys)``
-- ``javascript.builtins.Array.@@iterator [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.@@iterator)``
-- ``javascript.builtins.Array.values [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.values)``
+- ``javascript.builtins.Array.entries`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.entries)
+- ``javascript.builtins.Array.keys`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.keys)
+- ``javascript.builtins.Array.@@iterator`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.@@iterator)
+- ``javascript.builtins.Array.values`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.values)

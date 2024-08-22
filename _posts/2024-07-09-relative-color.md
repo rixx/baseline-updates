@@ -10,5 +10,5 @@ The `from` keyword for color functions (`color()`, `hsl()`, `oklch()`, etc.) cre
 
 ### Source features
 
-- ``css.types.color.lab.relative_syntax [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.color.lab.relative_syntax)``
-- ``css.types.color.oklab.relative_syntax [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.color.oklab.relative_syntax)``
+- ``css.types.color.lab.relative_syntax`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.color.lab.relative_syntax)
+- ``css.types.color.oklab.relative_syntax`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.color.oklab.relative_syntax)

@@ -10,5 +10,5 @@ The `createConicGradient()` methods draw a conic gradient to a 2D canvas.
 
 ### Source features
 
-- ``api.OffscreenCanvasRenderingContext2D.createConicGradient [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.OffscreenCanvasRenderingContext2D.createConicGradient)``
-- ``api.CanvasRenderingContext2D.createConicGradient [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CanvasRenderingContext2D.createConicGradient)``
+- ``api.OffscreenCanvasRenderingContext2D.createConicGradient`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.OffscreenCanvasRenderingContext2D.createConicGradient)
+- ``api.CanvasRenderingContext2D.createConicGradient`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CanvasRenderingContext2D.createConicGradient)

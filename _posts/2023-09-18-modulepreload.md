@@ -10,4 +10,4 @@ The `rel="modulepreload"` attribute for the `<link>` HTML element indicates that
 
 ### Source features
 
-- ``html.elements.link.rel.modulepreload [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.link.rel.modulepreload)``
+- ``html.elements.link.rel.modulepreload`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.link.rel.modulepreload)

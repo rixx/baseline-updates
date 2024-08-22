@@ -10,6 +10,6 @@ The `gap` CSS property in a flexbox layout sets the size of the space between it
 
 ### Source features
 
-- ``css.properties.column-gap.flex_context [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.column-gap.flex_context)``
-- ``css.properties.gap.flex_context [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.gap.flex_context)``
-- ``css.properties.row-gap.flex_context [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.row-gap.flex_context)``
+- ``css.properties.column-gap.flex_context`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.column-gap.flex_context)
+- ``css.properties.gap.flex_context`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.gap.flex_context)
+- ``css.properties.row-gap.flex_context`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.row-gap.flex_context)

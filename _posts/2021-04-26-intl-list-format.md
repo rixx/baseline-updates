@@ -10,9 +10,9 @@ The `Intl.ListFormat` API creates a locale-aware formatter that turns iterable o
 
 ### Source features
 
-- ``javascript.builtins.Intl.ListFormat [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat)``
-- ``javascript.builtins.Intl.ListFormat.ListFormat [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat.ListFormat)``
-- ``javascript.builtins.Intl.ListFormat.format [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat.format)``
-- ``javascript.builtins.Intl.ListFormat.formatToParts [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat.formatToParts)``
-- ``javascript.builtins.Intl.ListFormat.resolvedOptions [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat.resolvedOptions)``
-- ``javascript.builtins.Intl.ListFormat.supportedLocalesOf [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat.supportedLocalesOf)``
+- ``javascript.builtins.Intl.ListFormat`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat)
+- ``javascript.builtins.Intl.ListFormat.ListFormat`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat.ListFormat)
+- ``javascript.builtins.Intl.ListFormat.format`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat.format)
+- ``javascript.builtins.Intl.ListFormat.formatToParts`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat.formatToParts)
+- ``javascript.builtins.Intl.ListFormat.resolvedOptions`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat.resolvedOptions)
+- ``javascript.builtins.Intl.ListFormat.supportedLocalesOf`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.ListFormat.supportedLocalesOf)

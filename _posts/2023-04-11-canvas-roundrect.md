@@ -10,5 +10,5 @@ The `roundRect()` methods draw a rounded rectangle to a 2D canvas.
 
 ### Source features
 
-- ``api.CanvasRenderingContext2D.roundRect [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CanvasRenderingContext2D.roundRect)``
-- ``api.OffscreenCanvasRenderingContext2D.roundRect [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.OffscreenCanvasRenderingContext2D.roundRect)``
+- ``api.CanvasRenderingContext2D.roundRect`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CanvasRenderingContext2D.roundRect)
+- ``api.OffscreenCanvasRenderingContext2D.roundRect`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.OffscreenCanvasRenderingContext2D.roundRect)

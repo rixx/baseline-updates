@@ -10,4 +10,4 @@ The array `splice()` method changes an array in-place. You can use it to delete 
 
 ### Source features
 
-- ``javascript.builtins.Array.splice [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.splice)``
+- ``javascript.builtins.Array.splice`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.splice)

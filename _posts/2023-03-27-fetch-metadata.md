@@ -10,7 +10,7 @@ The `Sec-Fetch-Dest`, `Sec-Fetch-Mode, `Sec-Fetch-Site`, and `Sec-Fetch-User` HT
 
 ### Source features
 
-- ``http.headers.Sec-Fetch-Mode [[mdn]](https://https://developer.mozilla.org/en-US/search?q=http.headers.Sec-Fetch-Mode)``
-- ``http.headers.Sec-Fetch-Site [[mdn]](https://https://developer.mozilla.org/en-US/search?q=http.headers.Sec-Fetch-Site)``
-- ``http.headers.Sec-Fetch-User [[mdn]](https://https://developer.mozilla.org/en-US/search?q=http.headers.Sec-Fetch-User)``
-- ``http.headers.Sec-Fetch-Dest [[mdn]](https://https://developer.mozilla.org/en-US/search?q=http.headers.Sec-Fetch-Dest)``
+- ``http.headers.Sec-Fetch-Mode`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=http.headers.Sec-Fetch-Mode)
+- ``http.headers.Sec-Fetch-Site`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=http.headers.Sec-Fetch-Site)
+- ``http.headers.Sec-Fetch-User`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=http.headers.Sec-Fetch-User)
+- ``http.headers.Sec-Fetch-Dest`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=http.headers.Sec-Fetch-Dest)

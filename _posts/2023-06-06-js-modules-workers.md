@@ -10,7 +10,7 @@ The `Worker()` constructor accepts `{ type: "module" }` to load scripts that use
 
 ### Source features
 
-- ``api.Worker.Worker.ecmascript_modules [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Worker.Worker.ecmascript_modules)``
-- ``api.Worker.Worker.options_type_parameter [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Worker.Worker.options_type_parameter)``
-- ``javascript.operators.import.worker_support [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.operators.import.worker_support)``
-- ``javascript.statements.import.worker_support [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.import.worker_support)``
+- ``api.Worker.Worker.ecmascript_modules`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Worker.Worker.ecmascript_modules)
+- ``api.Worker.Worker.options_type_parameter`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Worker.Worker.options_type_parameter)
+- ``javascript.operators.import.worker_support`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.operators.import.worker_support)
+- ``javascript.statements.import.worker_support`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.import.worker_support)

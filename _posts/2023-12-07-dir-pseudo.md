@@ -10,4 +10,4 @@ The `:dir()` CSS functional pseudo-class matches elements by text direction, eit
 
 ### Source features
 
-- ``css.selectors.dir [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.dir)``
+- ``css.selectors.dir`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.dir)

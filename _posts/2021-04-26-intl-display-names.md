@@ -10,8 +10,8 @@ The `Intl.DisplayNames` API provides localized names of language, region, script
 
 ### Source features
 
-- ``javascript.builtins.Intl.DisplayNames [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.DisplayNames)``
-- ``javascript.builtins.Intl.DisplayNames.DisplayNames [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.DisplayNames.DisplayNames)``
-- ``javascript.builtins.Intl.DisplayNames.of [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.DisplayNames.of)``
-- ``javascript.builtins.Intl.DisplayNames.resolvedOptions [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.DisplayNames.resolvedOptions)``
-- ``javascript.builtins.Intl.DisplayNames.supportedLocalesOf [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.DisplayNames.supportedLocalesOf)``
+- ``javascript.builtins.Intl.DisplayNames`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.DisplayNames)
+- ``javascript.builtins.Intl.DisplayNames.DisplayNames`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.DisplayNames.DisplayNames)
+- ``javascript.builtins.Intl.DisplayNames.of`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.DisplayNames.of)
+- ``javascript.builtins.Intl.DisplayNames.resolvedOptions`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.DisplayNames.resolvedOptions)
+- ``javascript.builtins.Intl.DisplayNames.supportedLocalesOf`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Intl.DisplayNames.supportedLocalesOf)

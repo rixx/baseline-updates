@@ -10,12 +10,12 @@ Array iteration methods
 
 ### Source features
 
-- ``javascript.builtins.Array.every [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.every)``
-- ``javascript.builtins.Array.filter [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.filter)``
-- ``javascript.builtins.Array.forEach [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.forEach)``
-- ``javascript.builtins.Array.indexOf [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.indexOf)``
-- ``javascript.builtins.Array.lastIndexOf [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.lastIndexOf)``
-- ``javascript.builtins.Array.map [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.map)``
-- ``javascript.builtins.Array.some [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.some)``
-- ``javascript.builtins.Array.reduce [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.reduce)``
-- ``javascript.builtins.Array.reduceRight [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.reduceRight)``
+- ``javascript.builtins.Array.every`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.every)
+- ``javascript.builtins.Array.filter`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.filter)
+- ``javascript.builtins.Array.forEach`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.forEach)
+- ``javascript.builtins.Array.indexOf`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.indexOf)
+- ``javascript.builtins.Array.lastIndexOf`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.lastIndexOf)
+- ``javascript.builtins.Array.map`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.map)
+- ``javascript.builtins.Array.some`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.some)
+- ``javascript.builtins.Array.reduce`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.reduce)
+- ``javascript.builtins.Array.reduceRight`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.reduceRight)

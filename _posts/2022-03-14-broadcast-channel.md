@@ -10,10 +10,10 @@ The `BroadcastChannel` API allows you to send messages between same-origin brows
 
 ### Source features
 
-- ``api.BroadcastChannel [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel)``
-- ``api.BroadcastChannel.BroadcastChannel [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.BroadcastChannel)``
-- ``api.BroadcastChannel.close [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.close)``
-- ``api.BroadcastChannel.message_event [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.message_event)``
-- ``api.BroadcastChannel.name [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.name)``
-- ``api.BroadcastChannel.postMessage [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.postMessage)``
-- ``api.BroadcastChannel.messageerror_event [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.messageerror_event)``
+- ``api.BroadcastChannel`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel)
+- ``api.BroadcastChannel.BroadcastChannel`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.BroadcastChannel)
+- ``api.BroadcastChannel.close`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.close)
+- ``api.BroadcastChannel.message_event`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.message_event)
+- ``api.BroadcastChannel.name`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.name)
+- ``api.BroadcastChannel.postMessage`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.postMessage)
+- ``api.BroadcastChannel.messageerror_event`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.BroadcastChannel.messageerror_event)

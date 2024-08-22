@@ -10,5 +10,5 @@ The `includes()` method of arrays and typed arrays returns whether a given value
 
 ### Source features
 
-- ``javascript.builtins.Array.includes [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.includes)``
-- ``javascript.builtins.TypedArray.includes [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.includes)``
+- ``javascript.builtins.Array.includes`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.includes)
+- ``javascript.builtins.TypedArray.includes`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.includes)

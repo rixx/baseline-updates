@@ -10,5 +10,5 @@ The `Object.groupBy()` and `Map.groupBy()` static methods group values of arrays
 
 ### Source features
 
-- ``javascript.builtins.Map.groupBy [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Map.groupBy)``
-- ``javascript.builtins.Object.groupBy [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Object.groupBy)``
+- ``javascript.builtins.Map.groupBy`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Map.groupBy)
+- ``javascript.builtins.Object.groupBy`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Object.groupBy)

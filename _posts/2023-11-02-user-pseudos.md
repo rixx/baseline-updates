@@ -10,5 +10,5 @@ The `:user-valid` and `:user-invalid` pseudo-classes match form controls that ha
 
 ### Source features
 
-- ``css.selectors.user-invalid [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.user-invalid)``
-- ``css.selectors.user-valid [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.user-valid)``
+- ``css.selectors.user-invalid`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.user-invalid)
+- ``css.selectors.user-valid`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.user-valid)

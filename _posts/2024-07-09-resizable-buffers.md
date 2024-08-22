@@ -10,11 +10,11 @@ The `resize()` method of an `ArrayBuffer` and the `grow()` method of a `SharedAr
 
 ### Source features
 
-- ``javascript.builtins.ArrayBuffer.ArrayBuffer.maxByteLength_option [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.ArrayBuffer.maxByteLength_option)``
-- ``javascript.builtins.ArrayBuffer.maxByteLength [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.maxByteLength)``
-- ``javascript.builtins.ArrayBuffer.resizable [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.resizable)``
-- ``javascript.builtins.ArrayBuffer.resize [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.resize)``
-- ``javascript.builtins.SharedArrayBuffer.SharedArrayBuffer.maxByteLength_option [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.SharedArrayBuffer.SharedArrayBuffer.maxByteLength_option)``
-- ``javascript.builtins.SharedArrayBuffer.grow [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.SharedArrayBuffer.grow)``
-- ``javascript.builtins.SharedArrayBuffer.growable [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.SharedArrayBuffer.growable)``
-- ``javascript.builtins.SharedArrayBuffer.maxByteLength [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.SharedArrayBuffer.maxByteLength)``
+- ``javascript.builtins.ArrayBuffer.ArrayBuffer.maxByteLength_option`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.ArrayBuffer.maxByteLength_option)
+- ``javascript.builtins.ArrayBuffer.maxByteLength`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.maxByteLength)
+- ``javascript.builtins.ArrayBuffer.resizable`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.resizable)
+- ``javascript.builtins.ArrayBuffer.resize`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.resize)
+- ``javascript.builtins.SharedArrayBuffer.SharedArrayBuffer.maxByteLength_option`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.SharedArrayBuffer.SharedArrayBuffer.maxByteLength_option)
+- ``javascript.builtins.SharedArrayBuffer.grow`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.SharedArrayBuffer.grow)
+- ``javascript.builtins.SharedArrayBuffer.growable`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.SharedArrayBuffer.growable)
+- ``javascript.builtins.SharedArrayBuffer.maxByteLength`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.SharedArrayBuffer.maxByteLength)

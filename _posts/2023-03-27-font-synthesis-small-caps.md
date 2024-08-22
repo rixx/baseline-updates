@@ -10,6 +10,6 @@ The `font-synthesis-small-caps` CSS property sets whether or not the browser sho
 
 ### Source features
 
-- ``css.properties.font-synthesis-small-caps [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-small-caps)``
-- ``css.properties.font-synthesis-small-caps.auto [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-small-caps.auto)``
-- ``css.properties.font-synthesis-small-caps.none [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-small-caps.none)``
+- ``css.properties.font-synthesis-small-caps`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-small-caps)
+- ``css.properties.font-synthesis-small-caps.auto`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-small-caps.auto)
+- ``css.properties.font-synthesis-small-caps.none`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-small-caps.none)

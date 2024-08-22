@@ -10,6 +10,6 @@ The `XMLSerializer` API provides the `serializeToString()` method to construct a
 
 ### Source features
 
-- ``api.XMLSerializer [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.XMLSerializer)``
-- ``api.XMLSerializer.XMLSerializer [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.XMLSerializer.XMLSerializer)``
-- ``api.XMLSerializer.serializeToString [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.XMLSerializer.serializeToString)``
+- ``api.XMLSerializer`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.XMLSerializer)
+- ``api.XMLSerializer.XMLSerializer`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.XMLSerializer.XMLSerializer)
+- ``api.XMLSerializer.serializeToString`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.XMLSerializer.serializeToString)

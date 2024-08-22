@@ -10,8 +10,8 @@ The `async` and `await` keywords allow you to use the asynchronous, promise-base
 
 ### Source features
 
-- ``javascript.operators.await [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.operators.await)``
-- ``javascript.builtins.AsyncFunction [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.AsyncFunction)``
-- ``javascript.builtins.AsyncFunction.AsyncFunction [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.AsyncFunction.AsyncFunction)``
-- ``javascript.operators.async_function [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.operators.async_function)``
-- ``javascript.statements.async_function [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.async_function)``
+- ``javascript.operators.await`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.operators.await)
+- ``javascript.builtins.AsyncFunction`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.AsyncFunction)
+- ``javascript.builtins.AsyncFunction.AsyncFunction`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.AsyncFunction.AsyncFunction)
+- ``javascript.operators.async_function`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.operators.async_function)
+- ``javascript.statements.async_function`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.async_function)

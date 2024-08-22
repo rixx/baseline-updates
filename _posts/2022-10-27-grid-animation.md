@@ -10,5 +10,5 @@ Grid animation allows you to animate the `grid-template-columns` and `grid-templ
 
 ### Source features
 
-- ``css.properties.grid-template-columns.animation [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.grid-template-columns.animation)``
-- ``css.properties.grid-template-rows.animation [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.grid-template-rows.animation)``
+- ``css.properties.grid-template-columns.animation`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.grid-template-columns.animation)
+- ``css.properties.grid-template-rows.animation`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.grid-template-rows.animation)

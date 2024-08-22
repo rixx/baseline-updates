@@ -10,5 +10,5 @@ If you construct a fetch request with an `AbortSignal`, you can cancel the reque
 
 ### Source features
 
-- ``api.fetch.init_signal_parameter [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.fetch.init_signal_parameter)``
-- ``api.Request.signal [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Request.signal)``
+- ``api.fetch.init_signal_parameter`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.fetch.init_signal_parameter)
+- ``api.Request.signal`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Request.signal)

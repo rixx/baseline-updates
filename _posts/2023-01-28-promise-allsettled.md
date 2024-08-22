@@ -10,4 +10,4 @@ The `Promise.allSettled()` static method waits for an array of promises to settl
 
 ### Source features
 
-- ``javascript.builtins.Promise.allSettled [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Promise.allSettled)``
+- ``javascript.builtins.Promise.allSettled`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Promise.allSettled)

@@ -10,6 +10,6 @@ The `decodedSize`, `encodedSize`, and `transferSize` properties of the `Performa
 
 ### Source features
 
-- ``api.PerformanceResourceTiming.decodedBodySize [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.decodedBodySize)``
-- ``api.PerformanceResourceTiming.encodedBodySize [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.encodedBodySize)``
-- ``api.PerformanceResourceTiming.transferSize [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.transferSize)``
+- ``api.PerformanceResourceTiming.decodedBodySize`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.decodedBodySize)
+- ``api.PerformanceResourceTiming.encodedBodySize`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.encodedBodySize)
+- ``api.PerformanceResourceTiming.transferSize`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.PerformanceResourceTiming.transferSize)

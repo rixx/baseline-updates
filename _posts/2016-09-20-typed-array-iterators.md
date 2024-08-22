@@ -10,7 +10,7 @@ Typed arrays are iterable with the `for…of` statement and enumerable with the 
 
 ### Source features
 
-- ``javascript.builtins.TypedArray.@@iterator [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.@@iterator)``
-- ``javascript.builtins.TypedArray.keys [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.keys)``
-- ``javascript.builtins.TypedArray.values [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.values)``
-- ``javascript.builtins.TypedArray.entries [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.entries)``
+- ``javascript.builtins.TypedArray.@@iterator`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.@@iterator)
+- ``javascript.builtins.TypedArray.keys`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.keys)
+- ``javascript.builtins.TypedArray.values`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.values)
+- ``javascript.builtins.TypedArray.entries`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.entries)
