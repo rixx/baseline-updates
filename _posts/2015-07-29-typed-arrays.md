@@ -1,0 +1,62 @@
+---
+layout: post
+title: "New in Low Baseline Support: Typed arrays (initial support)"
+tags: baseline-low typed-arrays
+---
+
+[caniuse](https://caniuse.com/?search=typed-arrays) · [spec](['https://tc39.es/ecma262/multipage/indexed-collections.html#table-49', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-typedarray-constructors', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-typedarray-objects', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-typedarray.bytes_per_element', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-get-%25typedarray%25.prototype.buffer', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-get-%25typedarray%25.prototype.bytelength', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-get-%25typedarray%25.prototype.byteoffset', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%25typedarray%25.prototype.join', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-get-%25typedarray%25.prototype.length', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-properties-of-the-typedarray-constructors', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%25typedarray%25.prototype.reverse', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%25typedarray%25.prototype.set', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%25typedarray%25.prototype.slice', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%25typedarray%25.prototype.sort', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%25typedarray%25.prototype.subarray', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%25typedarray%25.prototype.tolocalestring', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%25typedarray%25.prototype.tostring'])
+
+Typed arrays are ordered lists of JavaScript values, where all values are of the same numerical type, such as 8-bit integers or 32-bit floating point numbers.
+
+### Source features
+
+- ``javascript.builtins.Float32Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Float32Array)``
+- ``javascript.builtins.Float32Array.Float32Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Float32Array.Float32Array)``
+- ``javascript.builtins.Float64Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Float64Array)``
+- ``javascript.builtins.Float64Array.Float64Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Float64Array.Float64Array)``
+- ``javascript.builtins.Int16Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int16Array)``
+- ``javascript.builtins.Int16Array.Int16Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int16Array.Int16Array)``
+- ``javascript.builtins.Int32Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int32Array)``
+- ``javascript.builtins.Int32Array.Int32Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int32Array.Int32Array)``
+- ``javascript.builtins.Int8Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int8Array)``
+- ``javascript.builtins.Int8Array.Int8Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int8Array.Int8Array)``
+- ``javascript.builtins.TypedArray [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray)``
+- ``javascript.builtins.TypedArray.BYTES_PER_ELEMENT [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.BYTES_PER_ELEMENT)``
+- ``javascript.builtins.TypedArray.buffer [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.buffer)``
+- ``javascript.builtins.TypedArray.byteLength [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.byteLength)``
+- ``javascript.builtins.TypedArray.byteOffset [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.byteOffset)``
+- ``javascript.builtins.TypedArray.length [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.length)``
+- ``javascript.builtins.TypedArray.name [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.name)``
+- ``javascript.builtins.TypedArray.set [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.set)``
+- ``javascript.builtins.TypedArray.subarray [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.subarray)``
+- ``javascript.builtins.Uint16Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint16Array)``
+- ``javascript.builtins.Uint16Array.Uint16Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint16Array.Uint16Array)``
+- ``javascript.builtins.Uint32Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint32Array)``
+- ``javascript.builtins.Uint32Array.Uint32Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint32Array.Uint32Array)``
+- ``javascript.builtins.Uint8Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint8Array)``
+- ``javascript.builtins.Uint8Array.Uint8Array [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint8Array.Uint8Array)``
+- ``javascript.builtins.Uint8ClampedArray [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint8ClampedArray)``
+- ``javascript.builtins.Uint8ClampedArray.Uint8ClampedArray [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint8ClampedArray.Uint8ClampedArray)``
+- ``javascript.builtins.TypedArray.named_properties [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.named_properties)``
+- ``javascript.builtins.TypedArray.join [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.join)``
+- ``javascript.builtins.TypedArray.reverse [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.reverse)``
+- ``javascript.builtins.TypedArray.slice [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.slice)``
+- ``javascript.builtins.TypedArray.sort [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.sort)``
+- ``javascript.builtins.TypedArray.toString [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.toString)``
+- ``javascript.builtins.Float32Array.Float32Array.iterable_allowed [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Float32Array.Float32Array.iterable_allowed)``
+- ``javascript.builtins.Float64Array.Float64Array.iterable_allowed [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Float64Array.Float64Array.iterable_allowed)``
+- ``javascript.builtins.Int32Array.Int32Array.iterable_allowed [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int32Array.Int32Array.iterable_allowed)``
+- ``javascript.builtins.Int8Array.Int8Array.iterable_allowed [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int8Array.Int8Array.iterable_allowed)``
+- ``javascript.builtins.Uint16Array.Uint16Array.iterable_allowed [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint16Array.Uint16Array.iterable_allowed)``
+- ``javascript.builtins.Uint32Array.Uint32Array.iterable_allowed [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint32Array.Uint32Array.iterable_allowed)``
+- ``javascript.builtins.Uint8Array.Uint8Array.iterable_allowed [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint8Array.Uint8Array.iterable_allowed)``
+- ``javascript.builtins.Uint8ClampedArray.Uint8ClampedArray.iterable_allowed [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint8ClampedArray.Uint8ClampedArray.iterable_allowed)``
+- ``javascript.builtins.Float32Array.Float32Array.constructor_without_parameters [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Float32Array.Float32Array.constructor_without_parameters)``
+- ``javascript.builtins.Float64Array.Float64Array.constructor_without_parameters [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Float64Array.Float64Array.constructor_without_parameters)``
+- ``javascript.builtins.Int16Array.Int16Array.constructor_without_parameters [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int16Array.Int16Array.constructor_without_parameters)``
+- ``javascript.builtins.Int32Array.Int32Array.constructor_without_parameters [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int32Array.Int32Array.constructor_without_parameters)``
+- ``javascript.builtins.Int8Array.Int8Array.constructor_without_parameters [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Int8Array.Int8Array.constructor_without_parameters)``
+- ``javascript.builtins.TypedArray.constructor_without_parameters [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.constructor_without_parameters)``
+- ``javascript.builtins.Uint16Array.Uint16Array.constructor_without_parameters [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint16Array.Uint16Array.constructor_without_parameters)``
+- ``javascript.builtins.Uint32Array.Uint32Array.constructor_without_parameters [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint32Array.Uint32Array.constructor_without_parameters)``
+- ``javascript.builtins.Uint8Array.Uint8Array.constructor_without_parameters [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Uint8Array.Uint8Array.constructor_without_parameters)``
