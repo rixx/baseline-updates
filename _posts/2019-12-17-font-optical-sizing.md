@@ -10,4 +10,4 @@ The `font-optical-sizing` CSS property sets whether text rendering is optimized 
 
 ### Source features
 
-- ``css.properties.font-optical-sizing`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-optical-sizing)
+- ``css.properties.font-optical-sizing`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.font-optical-sizing)

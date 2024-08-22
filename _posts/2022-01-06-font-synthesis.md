@@ -10,4 +10,4 @@ The `font-synthesis` CSS shorthand property disables all font synthesis except t
 
 ### Source features
 
-- ``css.properties.font-synthesis`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis)
+- ``css.properties.font-synthesis`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis)

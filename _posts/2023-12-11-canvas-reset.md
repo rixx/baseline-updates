@@ -10,5 +10,5 @@ The `reset()` method clears a canvas to its initial state.
 
 ### Source features
 
-- ``api.CanvasRenderingContext2D.reset`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.CanvasRenderingContext2D.reset)
-- ``api.OffscreenCanvasRenderingContext2D.reset`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.OffscreenCanvasRenderingContext2D.reset)
+- ``api.CanvasRenderingContext2D.reset`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.CanvasRenderingContext2D.reset)
+- ``api.OffscreenCanvasRenderingContext2D.reset`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.OffscreenCanvasRenderingContext2D.reset)

@@ -10,4 +10,4 @@ The `text-wrap: balance` CSS declaration balances the length of each line when t
 
 ### Source features
 
-- ``css.properties.text-wrap.balance`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.text-wrap.balance)
+- ``css.properties.text-wrap.balance`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.text-wrap.balance)

@@ -10,5 +10,5 @@ The `contain: size` CSS declaration sets an element's dimensions exclusively by 
 
 ### Source features
 
-- ``css.properties.contain`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.contain)
-- ``css.properties.contain.size`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.contain.size)
+- ``css.properties.contain`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.contain)
+- ``css.properties.contain.size`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.contain.size)

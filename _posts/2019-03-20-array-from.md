@@ -10,5 +10,5 @@ The `Array.from()` and typed array `.from()` static methods copy items from an i
 
 ### Source features
 
-- ``javascript.builtins.Array.from`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.from)
-- ``javascript.builtins.TypedArray.from`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.from)
+- ``javascript.builtins.Array.from`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.from)
+- ``javascript.builtins.TypedArray.from`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.from)

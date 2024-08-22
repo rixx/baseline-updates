@@ -10,9 +10,9 @@ The `offset` CSS property animates an element along a defined motion path.
 
 ### Source features
 
-- ``css.properties.offset-path`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.offset-path)
-- ``css.properties.offset`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.offset)
-- ``css.properties.offset-distance`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.offset-distance)
-- ``css.properties.offset-rotate`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.offset-rotate)
-- ``css.properties.offset-path.path`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.offset-path.path)
-- ``css.properties.offset-anchor`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.offset-anchor)
+- ``css.properties.offset-path`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.offset-path)
+- ``css.properties.offset`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.offset)
+- ``css.properties.offset-distance`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.offset-distance)
+- ``css.properties.offset-rotate`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.offset-rotate)
+- ``css.properties.offset-path.path`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.offset-path.path)
+- ``css.properties.offset-anchor`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.offset-anchor)

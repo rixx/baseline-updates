@@ -10,7 +10,7 @@ The `imagesrcset` and `imagesizes` attributes with the `rel="preload"` attribute
 
 ### Source features
 
-- ``api.HTMLLinkElement.imageSizes`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLLinkElement.imageSizes)
-- ``api.HTMLLinkElement.imageSrcset`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLLinkElement.imageSrcset)
-- ``html.elements.link.imagesizes`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.link.imagesizes)
-- ``html.elements.link.imagesrcset`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.link.imagesrcset)
+- ``api.HTMLLinkElement.imageSizes`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.HTMLLinkElement.imageSizes)
+- ``api.HTMLLinkElement.imageSrcset`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.HTMLLinkElement.imageSrcset)
+- ``html.elements.link.imagesizes`` [[mdn]](https://developer.mozilla.org/en-US/search?q=html.elements.link.imagesizes)
+- ``html.elements.link.imagesrcset`` [[mdn]](https://developer.mozilla.org/en-US/search?q=html.elements.link.imagesrcset)

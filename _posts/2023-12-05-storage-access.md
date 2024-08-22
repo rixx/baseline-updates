@@ -10,5 +10,5 @@ The `document.requestStorageAccess()` method allows content in iframes to reques
 
 ### Source features
 
-- ``api.Document.hasStorageAccess`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Document.hasStorageAccess)
-- ``api.Document.requestStorageAccess`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Document.requestStorageAccess)
+- ``api.Document.hasStorageAccess`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.Document.hasStorageAccess)
+- ``api.Document.requestStorageAccess`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.Document.requestStorageAccess)

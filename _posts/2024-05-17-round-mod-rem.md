@@ -10,6 +10,6 @@ The `round()`, `mod()`, and `rem()` CSS functions compute rounded values and the
 
 ### Source features
 
-- ``css.types.mod`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.mod)
-- ``css.types.rem`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.rem)
-- ``css.types.round`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.round)
+- ``css.types.mod`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.mod)
+- ``css.types.rem`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.rem)
+- ``css.types.round`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.round)

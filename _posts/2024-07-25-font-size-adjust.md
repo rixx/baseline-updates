@@ -10,8 +10,8 @@ The `font-size-adjust` CSS property preserves apparent text size, regardless of 
 
 ### Source features
 
-- ``css.properties.font-size-adjust`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-size-adjust)
-- ``css.properties.font-size-adjust.none`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-size-adjust.none)
-- ``svg.global_attributes.font-size-adjust`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=svg.global_attributes.font-size-adjust)
-- ``css.properties.font-size-adjust.two-values`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-size-adjust.two-values)
-- ``css.properties.font-size-adjust.from-font`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.font-size-adjust.from-font)
+- ``css.properties.font-size-adjust`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.font-size-adjust)
+- ``css.properties.font-size-adjust.none`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.font-size-adjust.none)
+- ``svg.global_attributes.font-size-adjust`` [[mdn]](https://developer.mozilla.org/en-US/search?q=svg.global_attributes.font-size-adjust)
+- ``css.properties.font-size-adjust.two-values`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.font-size-adjust.two-values)
+- ``css.properties.font-size-adjust.from-font`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.font-size-adjust.from-font)

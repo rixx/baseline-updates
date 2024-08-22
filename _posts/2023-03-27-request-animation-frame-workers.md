@@ -10,5 +10,5 @@ The `requestAnimationFrame()` method in workers schedules a function that runs b
 
 ### Source features
 
-- ``api.DedicatedWorkerGlobalScope.cancelAnimationFrame`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.DedicatedWorkerGlobalScope.cancelAnimationFrame)
-- ``api.DedicatedWorkerGlobalScope.requestAnimationFrame`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.DedicatedWorkerGlobalScope.requestAnimationFrame)
+- ``api.DedicatedWorkerGlobalScope.cancelAnimationFrame`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.DedicatedWorkerGlobalScope.cancelAnimationFrame)
+- ``api.DedicatedWorkerGlobalScope.requestAnimationFrame`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.DedicatedWorkerGlobalScope.requestAnimationFrame)

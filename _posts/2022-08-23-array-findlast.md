@@ -10,7 +10,7 @@ The `findLast()` and `findLastIndex()` methods of arrays and typed arrays search
 
 ### Source features
 
-- ``javascript.builtins.Array.findLast`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.findLast)
-- ``javascript.builtins.Array.findLastIndex`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.findLastIndex)
-- ``javascript.builtins.TypedArray.findLast`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.findLast)
-- ``javascript.builtins.TypedArray.findLastIndex`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.findLastIndex)
+- ``javascript.builtins.Array.findLast`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.findLast)
+- ``javascript.builtins.Array.findLastIndex`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.findLastIndex)
+- ``javascript.builtins.TypedArray.findLast`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.findLast)
+- ``javascript.builtins.TypedArray.findLastIndex`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.findLastIndex)

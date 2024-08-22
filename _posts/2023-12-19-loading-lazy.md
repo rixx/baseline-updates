@@ -11,7 +11,7 @@ The `loading="lazy"` attribute for `<img>` and `<iframe>` elements blocks loadin
 
 ### Source features
 
-- ``api.HTMLImageElement.loading`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLImageElement.loading)
-- ``html.elements.img.loading`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.img.loading)
-- ``api.HTMLIFrameElement.loading`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLIFrameElement.loading)
-- ``html.elements.iframe.loading`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.iframe.loading)
+- ``api.HTMLImageElement.loading`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.HTMLImageElement.loading)
+- ``html.elements.img.loading`` [[mdn]](https://developer.mozilla.org/en-US/search?q=html.elements.img.loading)
+- ``api.HTMLIFrameElement.loading`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.HTMLIFrameElement.loading)
+- ``html.elements.iframe.loading`` [[mdn]](https://developer.mozilla.org/en-US/search?q=html.elements.iframe.loading)

@@ -10,10 +10,10 @@ The `toReversed()`, `toSorted()`, `toSpliced()`, and `with()` methods of arrays 
 
 ### Source features
 
-- ``javascript.builtins.Array.toReversed`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.toReversed)
-- ``javascript.builtins.Array.toSorted`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.toSorted)
-- ``javascript.builtins.Array.toSpliced`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.toSpliced)
-- ``javascript.builtins.Array.with`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.with)
-- ``javascript.builtins.TypedArray.toReversed`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.toReversed)
-- ``javascript.builtins.TypedArray.toSorted`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.toSorted)
-- ``javascript.builtins.TypedArray.with`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.with)
+- ``javascript.builtins.Array.toReversed`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.toReversed)
+- ``javascript.builtins.Array.toSorted`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.toSorted)
+- ``javascript.builtins.Array.toSpliced`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.toSpliced)
+- ``javascript.builtins.Array.with`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.with)
+- ``javascript.builtins.TypedArray.toReversed`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.toReversed)
+- ``javascript.builtins.TypedArray.toSorted`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.toSorted)
+- ``javascript.builtins.TypedArray.with`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.with)

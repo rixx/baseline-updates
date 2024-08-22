@@ -10,4 +10,4 @@ The `URL.canParse()` static method checks whether a URL can be parsed into a val
 
 ### Source features
 
-- ``api.URL.canParse_static`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.URL.canParse_static)
+- ``api.URL.canParse_static`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.URL.canParse_static)

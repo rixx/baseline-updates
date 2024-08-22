@@ -10,4 +10,4 @@ The `display` CSS property accepts multiple keyword values, such as `inline flex
 
 ### Source features
 
-- ``css.properties.display.multi-keyword_values`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.display.multi-keyword_values)
+- ``css.properties.display.multi-keyword_values`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.display.multi-keyword_values)

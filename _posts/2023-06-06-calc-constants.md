@@ -10,8 +10,8 @@ The `e`, `pi`, `infinity`, and `NaN` constants are accepted in CSS math function
 
 ### Source features
 
-- ``css.types.calc-constant`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.calc-constant)
-- ``css.types.calc-constant.pi`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.calc-constant.pi)
-- ``css.types.calc-constant.e`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.calc-constant.e)
-- ``css.types.calc-constant.NaN`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.calc-constant.NaN)
-- ``css.types.calc-constant.infinity`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.calc-constant.infinity)
+- ``css.types.calc-constant`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.calc-constant)
+- ``css.types.calc-constant.pi`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.calc-constant.pi)
+- ``css.types.calc-constant.e`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.calc-constant.e)
+- ``css.types.calc-constant.NaN`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.calc-constant.NaN)
+- ``css.types.calc-constant.infinity`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.calc-constant.infinity)

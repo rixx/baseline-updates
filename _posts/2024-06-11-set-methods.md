@@ -10,10 +10,10 @@ The `difference()`, `intersection()`, `isDisjointFrom()`, `isSubsetOf()`, `isSup
 
 ### Source features
 
-- ``javascript.builtins.Set.difference`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.difference)
-- ``javascript.builtins.Set.intersection`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.intersection)
-- ``javascript.builtins.Set.isDisjointFrom`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.isDisjointFrom)
-- ``javascript.builtins.Set.isSubsetOf`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.isSubsetOf)
-- ``javascript.builtins.Set.isSupersetOf`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.isSupersetOf)
-- ``javascript.builtins.Set.symmetricDifference`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.symmetricDifference)
-- ``javascript.builtins.Set.union`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.union)
+- ``javascript.builtins.Set.difference`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.difference)
+- ``javascript.builtins.Set.intersection`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.intersection)
+- ``javascript.builtins.Set.isDisjointFrom`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.isDisjointFrom)
+- ``javascript.builtins.Set.isSubsetOf`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.isSubsetOf)
+- ``javascript.builtins.Set.isSupersetOf`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.isSupersetOf)
+- ``javascript.builtins.Set.symmetricDifference`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.symmetricDifference)
+- ``javascript.builtins.Set.union`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Set.union)

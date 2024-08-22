@@ -10,5 +10,5 @@ The `<blockquote>` element represents an extended quotation, styling contents as
 
 ### Source features
 
-- ``html.elements.blockquote`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.blockquote)
-- ``html.elements.blockquote.cite`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.blockquote.cite)
+- ``html.elements.blockquote`` [[mdn]](https://developer.mozilla.org/en-US/search?q=html.elements.blockquote)
+- ``html.elements.blockquote.cite`` [[mdn]](https://developer.mozilla.org/en-US/search?q=html.elements.blockquote.cite)

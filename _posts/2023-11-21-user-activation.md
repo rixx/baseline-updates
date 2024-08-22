@@ -10,7 +10,7 @@ The `navigator.userActivation` API reveals whether the user has interacted with 
 
 ### Source features
 
-- ``api.Navigator.userActivation`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Navigator.userActivation)
-- ``api.UserActivation`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.UserActivation)
-- ``api.UserActivation.hasBeenActive`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.UserActivation.hasBeenActive)
-- ``api.UserActivation.isActive`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.UserActivation.isActive)
+- ``api.Navigator.userActivation`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.Navigator.userActivation)
+- ``api.UserActivation`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.UserActivation)
+- ``api.UserActivation.hasBeenActive`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.UserActivation.hasBeenActive)
+- ``api.UserActivation.isActive`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.UserActivation.isActive)

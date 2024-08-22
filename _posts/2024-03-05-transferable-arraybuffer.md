@@ -10,6 +10,6 @@ The `transfer()` and `transferToFixedLength()` methods of `ArrayBuffer` move a b
 
 ### Source features
 
-- ``javascript.builtins.ArrayBuffer.detached`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.detached)
-- ``javascript.builtins.ArrayBuffer.transfer`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.transfer)
-- ``javascript.builtins.ArrayBuffer.transferToFixedLength`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.transferToFixedLength)
+- ``javascript.builtins.ArrayBuffer.detached`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.detached)
+- ``javascript.builtins.ArrayBuffer.transfer`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.transfer)
+- ``javascript.builtins.ArrayBuffer.transferToFixedLength`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.ArrayBuffer.transferToFixedLength)

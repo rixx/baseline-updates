@@ -10,4 +10,4 @@ The range syntax of CSS media queries allows you to use mathematical comparison 
 
 ### Source features
 
-- ``css.at-rules.media.range_syntax`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.at-rules.media.range_syntax)
+- ``css.at-rules.media.range_syntax`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.at-rules.media.range_syntax)

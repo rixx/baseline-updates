@@ -10,5 +10,5 @@ The `position: sticky` CSS declaration positions an element in the normal flow u
 
 ### Source features
 
-- ``css.properties.position.position_sticky_table_elements`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.position.position_sticky_table_elements)
-- ``css.properties.position.sticky`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.position.sticky)
+- ``css.properties.position.position_sticky_table_elements`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.position.position_sticky_table_elements)
+- ``css.properties.position.sticky`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.position.sticky)

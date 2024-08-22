@@ -10,4 +10,4 @@ The `transition-behavior: allow-discrete` CSS declaration allows transitions for
 
 ### Source features
 
-- ``css.properties.transition-behavior`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.transition-behavior)
+- ``css.properties.transition-behavior`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.transition-behavior)

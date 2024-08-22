@@ -10,4 +10,4 @@ The `linear()` easing function for animations and transitions interpolates linea
 
 ### Source features
 
-- ``css.types.easing-function.linear-function`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.easing-function.linear-function)
+- ``css.types.easing-function.linear-function`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.easing-function.linear-function)

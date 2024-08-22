@@ -10,4 +10,4 @@ The `contain: layout` CSS declaration isolates the inside of an element such tha
 
 ### Source features
 
-- ``css.properties.contain.layout`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.contain.layout)
+- ``css.properties.contain.layout`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.contain.layout)

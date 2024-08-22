@@ -10,4 +10,4 @@ The `light-dark()` CSS function accepts two colors and uses one depending on the
 
 ### Source features
 
-- ``css.types.color.light-dark`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.color.light-dark)
+- ``css.types.color.light-dark`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.color.light-dark)

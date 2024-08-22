@@ -10,5 +10,5 @@ The `requestAnimationFrame()` method schedules a function that runs before the n
 
 ### Source features
 
-- ``api.Window.cancelAnimationFrame`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Window.cancelAnimationFrame)
-- ``api.Window.requestAnimationFrame`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Window.requestAnimationFrame)
+- ``api.Window.cancelAnimationFrame`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.Window.cancelAnimationFrame)
+- ``api.Window.requestAnimationFrame`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.Window.requestAnimationFrame)

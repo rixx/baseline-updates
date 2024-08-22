@@ -10,4 +10,4 @@ The `background-clip: text` CSS declaration draws the background underneath only
 
 ### Source features
 
-- ``css.properties.background-clip.text`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.background-clip.text)
+- ``css.properties.background-clip.text`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.background-clip.text)

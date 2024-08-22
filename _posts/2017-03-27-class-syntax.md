@@ -10,9 +10,9 @@ Classes are an object-oriented syntax for JavaScript prototypes.
 
 ### Source features
 
-- ``javascript.operators.super`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.operators.super)
-- ``javascript.classes`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.classes)
-- ``javascript.classes.constructor`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.classes.constructor)
-- ``javascript.classes.extends`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.classes.extends)
-- ``javascript.classes.static`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.classes.static)
-- ``javascript.statements.class`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.statements.class)
+- ``javascript.operators.super`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.operators.super)
+- ``javascript.classes`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.classes)
+- ``javascript.classes.constructor`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.classes.constructor)
+- ``javascript.classes.extends`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.classes.extends)
+- ``javascript.classes.static`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.classes.static)
+- ``javascript.statements.class`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.statements.class)

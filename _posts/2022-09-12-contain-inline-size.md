@@ -10,4 +10,4 @@ The `contain: inline-size` CSS declaration prevents the element's inline dimensi
 
 ### Source features
 
-- ``css.properties.contain.inline-size`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.contain.inline-size)
+- ``css.properties.contain.inline-size`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.contain.inline-size)

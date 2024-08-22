@@ -10,7 +10,7 @@ The `find()` and `findIndex()` methods of arrays and typed arrays search an arra
 
 ### Source features
 
-- ``javascript.builtins.Array.find`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.find)
-- ``javascript.builtins.Array.findIndex`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.findIndex)
-- ``javascript.builtins.TypedArray.find`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.find)
-- ``javascript.builtins.TypedArray.findIndex`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.findIndex)
+- ``javascript.builtins.Array.find`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.find)
+- ``javascript.builtins.Array.findIndex`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.findIndex)
+- ``javascript.builtins.TypedArray.find`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.find)
+- ``javascript.builtins.TypedArray.findIndex`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.TypedArray.findIndex)

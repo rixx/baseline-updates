@@ -10,4 +10,4 @@ The `animation-composition` CSS property chooses how to combine animations that 
 
 ### Source features
 
-- ``css.properties.animation-composition`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.animation-composition)
+- ``css.properties.animation-composition`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.animation-composition)

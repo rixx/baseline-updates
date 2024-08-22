@@ -10,5 +10,5 @@ The `assign()` method for `<slot>` elements assigns nodes to the slot, as an alt
 
 ### Source features
 
-- ``api.HTMLSlotElement.assign`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.HTMLSlotElement.assign)
-- ``api.ShadowRoot.slotAssignment`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.ShadowRoot.slotAssignment)
+- ``api.HTMLSlotElement.assign`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.HTMLSlotElement.assign)
+- ``api.ShadowRoot.slotAssignment`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.ShadowRoot.slotAssignment)

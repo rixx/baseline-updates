@@ -10,5 +10,5 @@ Custom properties are CSS properties prefixed with `--` that set values you can 
 
 ### Source features
 
-- ``css.properties.custom-property`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.custom-property)
-- ``css.properties.custom-property.var`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.custom-property.var)
+- ``css.properties.custom-property`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.custom-property)
+- ``css.properties.custom-property.var`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.custom-property.var)

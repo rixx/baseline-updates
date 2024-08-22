@@ -10,4 +10,4 @@ The `Array.fromAsync()` static method copies items from an async iterable object
 
 ### Source features
 
-- ``javascript.builtins.Array.fromAsync`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.fromAsync)
+- ``javascript.builtins.Array.fromAsync`` [[mdn]](https://developer.mozilla.org/en-US/search?q=javascript.builtins.Array.fromAsync)

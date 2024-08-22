@@ -10,4 +10,4 @@ A `<script type="importmap">` HTML element provides an import map as a JSON stri
 
 ### Source features
 
-- ``html.elements.script.type.importmap`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=html.elements.script.type.importmap)
+- ``html.elements.script.type.importmap`` [[mdn]](https://developer.mozilla.org/en-US/search?q=html.elements.script.type.importmap)

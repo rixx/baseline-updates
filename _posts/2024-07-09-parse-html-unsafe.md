@@ -10,6 +10,6 @@ The `Document.parseHTMLUnsafe()` static method parses HTML into a DOM tree, whil
 
 ### Source features
 
-- ``api.Element.setHTMLUnsafe`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Element.setHTMLUnsafe)
-- ``api.ShadowRoot.setHTMLUnsafe`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.ShadowRoot.setHTMLUnsafe)
-- ``api.Document.parseHTMLUnsafe_static`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Document.parseHTMLUnsafe_static)
+- ``api.Element.setHTMLUnsafe`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.Element.setHTMLUnsafe)
+- ``api.ShadowRoot.setHTMLUnsafe`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.ShadowRoot.setHTMLUnsafe)
+- ``api.Document.parseHTMLUnsafe_static`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.Document.parseHTMLUnsafe_static)

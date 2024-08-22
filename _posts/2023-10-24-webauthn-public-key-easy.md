@@ -10,6 +10,6 @@ The `getAuthenticatorData()`, `getPublicKey()`, and `getPublicKeyAlgorithm()` me
 
 ### Source features
 
-- ``api.AuthenticatorAttestationResponse.getAuthenticatorData`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.AuthenticatorAttestationResponse.getAuthenticatorData)
-- ``api.AuthenticatorAttestationResponse.getPublicKey`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.AuthenticatorAttestationResponse.getPublicKey)
-- ``api.AuthenticatorAttestationResponse.getPublicKeyAlgorithm`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.AuthenticatorAttestationResponse.getPublicKeyAlgorithm)
+- ``api.AuthenticatorAttestationResponse.getAuthenticatorData`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.AuthenticatorAttestationResponse.getAuthenticatorData)
+- ``api.AuthenticatorAttestationResponse.getPublicKey`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.AuthenticatorAttestationResponse.getPublicKey)
+- ``api.AuthenticatorAttestationResponse.getPublicKeyAlgorithm`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.AuthenticatorAttestationResponse.getPublicKeyAlgorithm)

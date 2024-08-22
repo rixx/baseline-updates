@@ -10,5 +10,5 @@ The `accent-color` CSS property sets a color for checkboxes, radio buttons, and 
 
 ### Source features
 
-- ``css.properties.accent-color`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.accent-color)
-- ``css.properties.accent-color.auto`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.accent-color.auto)
+- ``css.properties.accent-color`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.accent-color)
+- ``css.properties.accent-color.auto`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.accent-color.auto)

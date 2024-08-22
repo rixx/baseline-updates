@@ -10,5 +10,5 @@ The `scrollIntoView()` method scrolls an element's ancestor containers such that
 
 ### Source features
 
-- ``api.Element.scrollIntoView`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Element.scrollIntoView)
-- ``api.Element.scrollIntoView.options_parameter`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=api.Element.scrollIntoView.options_parameter)
+- ``api.Element.scrollIntoView`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.Element.scrollIntoView)
+- ``api.Element.scrollIntoView.options_parameter`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.Element.scrollIntoView.options_parameter)

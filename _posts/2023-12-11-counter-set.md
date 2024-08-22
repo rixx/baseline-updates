@@ -10,6 +10,6 @@ The `counter-set` CSS property creates (and optionally sets a value for) a count
 
 ### Source features
 
-- ``css.properties.counter-set`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.counter-set)
-- ``css.properties.counter-set.list-item`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.counter-set.list-item)
-- ``css.properties.counter-set.none`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.counter-set.none)
+- ``css.properties.counter-set`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.counter-set)
+- ``css.properties.counter-set.list-item`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.counter-set.list-item)
+- ``css.properties.counter-set.none`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.counter-set.none)

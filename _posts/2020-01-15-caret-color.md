@@ -10,4 +10,4 @@ The `caret-color` CSS property sets the color of the text insertion pointer in a
 
 ### Source features
 
-- ``css.properties.caret-color`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.caret-color)
+- ``css.properties.caret-color`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.caret-color)

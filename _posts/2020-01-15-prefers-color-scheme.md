@@ -10,4 +10,4 @@ The `prefers-color-scheme` CSS media query detects the requested color scheme, l
 
 ### Source features
 
-- ``css.at-rules.media.prefers-color-scheme`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.at-rules.media.prefers-color-scheme)
+- ``css.at-rules.media.prefers-color-scheme`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.at-rules.media.prefers-color-scheme)

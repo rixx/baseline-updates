@@ -10,7 +10,7 @@ The `will-change` CSS property gives hints to the browser about expected changes
 
 ### Source features
 
-- ``css.properties.will-change`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.will-change)
-- ``css.properties.will-change.auto`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.will-change.auto)
-- ``css.properties.will-change.contents`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.will-change.contents)
-- ``css.properties.will-change.scroll-position`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.properties.will-change.scroll-position)
+- ``css.properties.will-change`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.will-change)
+- ``css.properties.will-change.auto`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.will-change.auto)
+- ``css.properties.will-change.contents`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.will-change.contents)
+- ``css.properties.will-change.scroll-position`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.will-change.scroll-position)

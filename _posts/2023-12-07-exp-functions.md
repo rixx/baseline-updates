@@ -10,8 +10,8 @@ The `pow()`, `sqrt()`, `hypot()`, `log()`, and `exp()` CSS functions compute var
 
 ### Source features
 
-- ``css.types.exp`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.exp)
-- ``css.types.hypot`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.hypot)
-- ``css.types.log`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.log)
-- ``css.types.pow`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.pow)
-- ``css.types.sqrt`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.types.sqrt)
+- ``css.types.exp`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.exp)
+- ``css.types.hypot`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.hypot)
+- ``css.types.log`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.log)
+- ``css.types.pow`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.pow)
+- ``css.types.sqrt`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.types.sqrt)

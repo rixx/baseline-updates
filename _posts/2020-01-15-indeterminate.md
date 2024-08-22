@@ -10,7 +10,7 @@ The `:indeterminate` CSS pseudo-class selects any form element whose state is in
 
 ### Source features
 
-- ``css.selectors.indeterminate`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.indeterminate)
-- ``css.selectors.indeterminate.checkbox`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.indeterminate.checkbox)
-- ``css.selectors.indeterminate.progress`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.indeterminate.progress)
-- ``css.selectors.indeterminate.radio`` [[mdn]](https://https://developer.mozilla.org/en-US/search?q=css.selectors.indeterminate.radio)
+- ``css.selectors.indeterminate`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.selectors.indeterminate)
+- ``css.selectors.indeterminate.checkbox`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.selectors.indeterminate.checkbox)
+- ``css.selectors.indeterminate.progress`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.selectors.indeterminate.progress)
+- ``css.selectors.indeterminate.radio`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.selectors.indeterminate.radio)
