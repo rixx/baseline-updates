@@ -2,7 +2,7 @@ title: Baseline Updates
 email: r@rixx.de
 description: >-
   Updates to the Baseline collection. Including RSS feeds (both for all updates and individual tags).
-baseurl: ""
+baseurl: "baseline-updates"
 url: "https://rixx.github.io/baseline-updates/"
 
 # Build settings
