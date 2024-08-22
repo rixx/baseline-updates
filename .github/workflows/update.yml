@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ main ]
 
-premissions:
+permissions:
   contents: write
   checks: write
   pull-requests: write
