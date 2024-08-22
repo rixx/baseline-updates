@@ -6,8 +6,8 @@ BASE_DIR = Path(__file__).parent.parent.parent
 FEATURE_PATH = BASE_DIR / "web-features" / "features"
 POST_PATH = BASE_DIR / "baseline-updates" / "_posts"
 TITLES = {
-    "baseline_low_date": "New in Low Baseline Support",
-    "baseline_high_date": "New in High Baseline Support",
+    "baseline-low": "New in Low Baseline Support",
+    "baseline-high": "New in High Baseline Support",
 }
 NOW = dt.datetime.now().strftime("%Y-%m-%d")
 
@@ -35,7 +35,7 @@ for dist_file in FEATURE_PATH.glob("*.yml.dist"):
                 {
                     "name": feature_name,
                     "sort_date": get_date(feature["status"]["baseline_low_date"]),
-                    "event": "baseline_low_date",
+                    "event": "baseline-low",
                     "data": feature,
                     "details": details,
                 }
@@ -45,7 +45,7 @@ for dist_file in FEATURE_PATH.glob("*.yml.dist"):
                 {
                     "name": feature_name,
                     "sort_date": get_date(feature["status"]["baseline_high_date"]),
-                    "event": "baseline_high_date",
+                    "event": "baseline-high",
                     "data": feature,
                     "details": details,
                 }
