@@ -40,3 +40,4 @@ jobs:
         with:
           commit_message: New baseline information
           repository: baseline-updates
+          commit_author: baseline-update-checker
