@@ -3,7 +3,7 @@ email: r@rixx.de
 description: >-
   Updates to the Baseline collection. Including RSS feeds (both for all updates and individual tags).
 baseurl: "/baseline-updates"
-url: "https://rixx.github.io/baseline-updates/"
+url: "https://rixx.github.io"
 
 # Build settings
 plugins:
@@ -11,3 +11,4 @@ plugins:
 
 feed:
   tags: true
+  posts_limit: 25
