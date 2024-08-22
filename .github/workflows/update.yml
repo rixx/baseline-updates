@@ -32,7 +32,8 @@ jobs:
         with:
           cache: "pip"
       - name: Install requirements
-        run: python -m pip install ./bin/requirements.txt
+        run: |
+          python -m pip install -r ./baseline-updates/bin/requirements.txt
       - name: Run update script
         run: python ./baseline-updates/bin/update.py
       - uses: stefanzweifel/git-auto-commit-action@v5
