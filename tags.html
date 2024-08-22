@@ -7,7 +7,7 @@ title: 'Tags'
 {% for tag in tags %}
     <h2 id="{{ tag[0] }}">
         <a href="#{{ tag[0] }}" style="text-decoration: none">🔗</a>
-        <a href="/feed/by_tag/{{ tag[0] }}.xml"><img height=24 style="margin-bottom: -4px" src="/assets/rss.png"></a>
+        <a href="{{ site.baseurl }}/feed/by_tag/{{ tag[0] }}.xml"><img height=24 style="margin-bottom: -4px" src="{{ site.baseurl }}/assets/rss.png"></a>
         {{ tag[0] }}
     </h2>
     <details>

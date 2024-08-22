@@ -10,7 +10,7 @@ layout: base
   {%- if posts.size > 0 -%}
     <h2 class="post-list-heading">
       {% if page.url != "/" %}
-        <a href="/" class="home-link">🏠</a>
+        <a href="{{ site.baseurl }}" class="home-link">🏠</a>
       {% endif %}
       {%- if page.list_title -%}
         {{ page.list_title }}
