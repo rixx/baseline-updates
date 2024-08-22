@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: <ol>, <ul>, and <li>"
 tags: baseline-low html-elements
 ---
 
-[caniuse](https://caniuse.com/?search=list-elements) · [spec](['https://html.spec.whatwg.org/multipage/grouping-content.html#the-ol-element', 'https://html.spec.whatwg.org/multipage/grouping-content.html#the-ul-element', 'https://html.spec.whatwg.org/multipage/grouping-content.html#the-li-element'])
+[caniuse](https://caniuse.com/?search=list-elements) · [mdn](https://developer.mozilla.org/en-US/search?q=<ol>, <ul>, and <li>) · [spec](['https://html.spec.whatwg.org/multipage/grouping-content.html#the-ol-element', 'https://html.spec.whatwg.org/multipage/grouping-content.html#the-ul-element', 'https://html.spec.whatwg.org/multipage/grouping-content.html#the-li-element'])
 
 The `<ol>`, `<ul>`, and `<li>` HTML elements represent ordered and unordered lists.
 

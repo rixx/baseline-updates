@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Relative colors"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=relative-color) · [spec](https://drafts.csswg.org/css-color-5/#relative-colors)
+[caniuse](https://caniuse.com/?search=relative-color) · [mdn](https://developer.mozilla.org/en-US/search?q=Relative colors) · [spec](https://drafts.csswg.org/css-color-5/#relative-colors)
 
 The `from` keyword for color functions (`color()`, `hsl()`, `oklch()`, etc.) creates a new color based on a given color by modifying the values of the input color. Also known as relative color syntax (RCS).
 

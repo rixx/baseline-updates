@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Intl.RelativeTimeFormat"
 tags: baseline-high intl
 ---
 
-[caniuse](https://caniuse.com/?search=intl-relative-time-format) · [spec](https://tc39.es/ecma402/#relativetimeformat-objects)
+[caniuse](https://caniuse.com/?search=intl-relative-time-format) · [mdn](https://developer.mozilla.org/en-US/search?q=Intl.RelativeTimeFormat) · [spec](https://tc39.es/ecma402/#relativetimeformat-objects)
 
 The `Intl.RelativeTimeFormat` API creates a locale-aware formatter that turns an object representing a relative time (such as '1 day ago') into a localized string.
 

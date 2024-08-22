@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Cascade layers"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=cascade-layers) · [spec](https://drafts.csswg.org/css-cascade-5/#layering)
+[caniuse](https://caniuse.com/?search=cascade-layers) · [mdn](https://developer.mozilla.org/en-US/search?q=Cascade layers) · [spec](https://drafts.csswg.org/css-cascade-5/#layering)
 
 The `@layer` CSS at-rule avoids specificity conflicts by providing priority levels for different groups of CSS rules, such as low-priority styles like resets, and high-priority styles like UI components.
 

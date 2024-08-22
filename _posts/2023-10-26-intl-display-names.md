@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Intl.DisplayNames"
 tags: baseline-high intl
 ---
 
-[caniuse](https://caniuse.com/?search=intl-display-names) · [spec](https://tc39.es/ecma402/#intl-displaynames-objects)
+[caniuse](https://caniuse.com/?search=intl-display-names) · [mdn](https://developer.mozilla.org/en-US/search?q=Intl.DisplayNames) · [spec](https://tc39.es/ecma402/#intl-displaynames-objects)
 
 The `Intl.DisplayNames` API provides localized names of language, region, script, and currency codes.
 

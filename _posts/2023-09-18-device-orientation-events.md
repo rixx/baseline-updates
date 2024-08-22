@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Device orientation events"
 tags: baseline-low sensors
 ---
 
-[caniuse](https://caniuse.com/?search=device-orientation-events) · [spec](https://w3c.github.io/deviceorientation/)
+[caniuse](https://caniuse.com/?search=device-orientation-events) · [mdn](https://developer.mozilla.org/en-US/search?q=Device orientation events) · [spec](https://w3c.github.io/deviceorientation/)
 
 The `DeviceMotion` and `DeviceOrientation` events report the movement and orientation of the browser's device in physical space.
 

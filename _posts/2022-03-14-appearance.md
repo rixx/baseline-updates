@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: appearance"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=appearance) · [spec](https://drafts.csswg.org/css-ui-4/#appearance-switching)
+[caniuse](https://caniuse.com/?search=appearance) · [mdn](https://developer.mozilla.org/en-US/search?q=appearance) · [spec](https://drafts.csswg.org/css-ui-4/#appearance-switching)
 
 The `appearance` CSS property controls the appearance of form controls. Using `appearance: none` disables any default native appearance and allows the elements to be styled with CSS.
 

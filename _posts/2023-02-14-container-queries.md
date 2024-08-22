@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Container queries"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=container-queries) · [spec](https://drafts.csswg.org/css-contain-3/#container-queries)
+[caniuse](https://caniuse.com/?search=container-queries) · [mdn](https://developer.mozilla.org/en-US/search?q=Container queries) · [spec](https://drafts.csswg.org/css-contain-3/#container-queries)
 
 Container size queries with the `@container` at-rule apply styles to an element based on the dimensions of its container.
 

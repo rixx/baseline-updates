@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Mouse events"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=mouse-events) · [spec](https://w3c.github.io/uievents/#events-mouse-types)
+[caniuse](https://caniuse.com/?search=mouse-events) · [mdn](https://developer.mozilla.org/en-US/search?q=Mouse events) · [spec](https://w3c.github.io/uievents/#events-mouse-types)
 
 Mouse events, such as `click`, `mousedown`, or `mousemove`, fire when users interact with an input or pointing device such as a mouse, trackpad, or touchscreen.
 

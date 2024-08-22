@@ -4,7 +4,7 @@ title: "New in High Baseline Support: <blockquote>"
 tags: baseline-high html-elements
 ---
 
-[caniuse](https://caniuse.com/?search=blockquote) · [spec](https://html.spec.whatwg.org/multipage/grouping-content.html#the-blockquote-element)
+[caniuse](https://caniuse.com/?search=blockquote) · [mdn](https://developer.mozilla.org/en-US/search?q=<blockquote>) · [spec](https://html.spec.whatwg.org/multipage/grouping-content.html#the-blockquote-element)
 
 The `<blockquote>` element represents an extended quotation, styling contents as an indented block by default.
 

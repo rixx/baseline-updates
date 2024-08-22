@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: BroadcastChannel"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=broadcast-channel) · [spec](https://html.spec.whatwg.org/multipage/web-messaging.html#broadcasting-to-other-browsing-contexts)
+[caniuse](https://caniuse.com/?search=broadcast-channel) · [mdn](https://developer.mozilla.org/en-US/search?q=BroadcastChannel) · [spec](https://html.spec.whatwg.org/multipage/web-messaging.html#broadcasting-to-other-browsing-contexts)
 
 The `BroadcastChannel` API allows you to send messages between same-origin browsing contexts, such as between the same page loaded in multiple tabs.
 

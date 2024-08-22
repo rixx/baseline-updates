@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: input (event)"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=input-event) · [spec](https://w3c.github.io/uievents/#event-type-input)
+[caniuse](https://caniuse.com/?search=input-event) · [mdn](https://developer.mozilla.org/en-US/search?q=input (event)) · [spec](https://w3c.github.io/uievents/#event-type-input)
 
 The `input` event fires when a form control changes or an element with the `contenteditable` attribute changes.
 

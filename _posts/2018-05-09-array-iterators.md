@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Array iterators"
 tags: baseline-low arrays iterators
 ---
 
-[caniuse](https://caniuse.com/?search=array-iterators) · [spec](['https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype-@@iterator', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.entries', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.keys', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.values'])
+[caniuse](https://caniuse.com/?search=array-iterators) · [mdn](https://developer.mozilla.org/en-US/search?q=Array iterators) · [spec](['https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype-@@iterator', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.entries', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.keys', 'https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.values'])
 
 Arrays are iterable with the `for…of` statement and enumerable with the methods `entries()`, `keys()`, and `values()`.
 

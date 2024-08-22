@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: JavaScript modules in workers"
 tags: baseline-low js-modules
 ---
 
-[caniuse](https://caniuse.com/?search=js-modules-workers) · [spec](https://html.spec.whatwg.org/multipage/workers.html#dom-worker-dev)
+[caniuse](https://caniuse.com/?search=js-modules-workers) · [mdn](https://developer.mozilla.org/en-US/search?q=JavaScript modules in workers) · [spec](https://html.spec.whatwg.org/multipage/workers.html#dom-worker-dev)
 
 The `Worker()` constructor accepts `{ type: "module" }` to load scripts that use `import` and `export`. Also known as ECMAScript modules or ESM in workers.
 

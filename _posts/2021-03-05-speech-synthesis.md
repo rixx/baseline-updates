@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Speech synthesis"
 tags: baseline-high speech
 ---
 
-[caniuse](https://caniuse.com/?search=speech-synthesis) · [spec](https://wicg.github.io/speech-api/#tts-section)
+[caniuse](https://caniuse.com/?search=speech-synthesis) · [mdn](https://developer.mozilla.org/en-US/search?q=Speech synthesis) · [spec](https://wicg.github.io/speech-api/#tts-section)
 
 The `SpeechSynthesis` API converts text into audio using a synthetic voice.
 

@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: @counter-style"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=counter-style) · [spec](https://drafts.csswg.org/css-counter-styles-3/)
+[caniuse](https://caniuse.com/?search=counter-style) · [mdn](https://developer.mozilla.org/en-US/search?q=@counter-style) · [spec](https://drafts.csswg.org/css-counter-styles-3/)
 
 The `@counter-style` CSS at-rule defines custom counter styles for list items. For example, you can use a sequence of specific symbols instead of numbers for an ordered list.
 

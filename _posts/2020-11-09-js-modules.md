@@ -4,7 +4,7 @@ title: "New in High Baseline Support: JavaScript modules"
 tags: baseline-high js-modules
 ---
 
-[caniuse](https://caniuse.com/?search=js-modules) · [spec](['https://html.spec.whatwg.org/multipage/webappapis.html#javascript-module-script', 'https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html#sec-modules'])
+[caniuse](https://caniuse.com/?search=js-modules) · [mdn](https://developer.mozilla.org/en-US/search?q=JavaScript modules) · [spec](['https://html.spec.whatwg.org/multipage/webappapis.html#javascript-module-script', 'https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html#sec-modules'])
 
 JavaScript modules allow code to be organized into reusable units. Modules use `import` to load other modules and `export` to declare what is available to import from other modules. In HTML, modules are loaded with `<script type="module">`.
 

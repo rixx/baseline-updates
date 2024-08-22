@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: ARIA attribute reflection"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=aria-attribute-reflection) · [spec](https://w3c.github.io/aria/#accessibilityroleandproperties-correspondence)
+[caniuse](https://caniuse.com/?search=aria-attribute-reflection) · [mdn](https://developer.mozilla.org/en-US/search?q=ARIA attribute reflection) · [spec](https://w3c.github.io/aria/#accessibilityroleandproperties-correspondence)
 
 WAI-ARIA attributes have corresponding properties on `Element` and `ElementInternals` objects.
 

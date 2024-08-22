@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Abortable fetch"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=abortable-fetch) · [spec](https://fetch.spec.whatwg.org/#ref-for-dom-request-signal%E2%91%A1)
+[caniuse](https://caniuse.com/?search=abortable-fetch) · [mdn](https://developer.mozilla.org/en-US/search?q=Abortable fetch) · [spec](https://fetch.spec.whatwg.org/#ref-for-dom-request-signal%E2%91%A1)
 
 If you construct a fetch request with an `AbortSignal`, you can cancel the request.
 

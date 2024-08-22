@@ -4,7 +4,7 @@ title: "New in High Baseline Support: :indeterminate"
 tags: baseline-high forms
 ---
 
-[caniuse](https://caniuse.com/?search=indeterminate) · [spec](['https://drafts.csswg.org/selectors-4/#indeterminate', 'https://html.spec.whatwg.org/multipage/semantics-other.html#selector-indeterminate'])
+[caniuse](https://caniuse.com/?search=indeterminate) · [mdn](https://developer.mozilla.org/en-US/search?q=:indeterminate) · [spec](['https://drafts.csswg.org/selectors-4/#indeterminate', 'https://html.spec.whatwg.org/multipage/semantics-other.html#selector-indeterminate'])
 
 The `:indeterminate` CSS pseudo-class selects any form element whose state is indeterminate, such as checkboxes that have been set to an indeterminate state with JavaScript, or radio buttons which are members of a group in which all radio buttons are unchecked.
 

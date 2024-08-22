@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: font-palette"
 tags: baseline-low fonts
 ---
 
-[caniuse](https://caniuse.com/?search=font-palette) · [spec](['https://drafts.csswg.org/css-fonts-4/#font-palette-prop', 'https://drafts.csswg.org/css-fonts-4/#font-palette-values'])
+[caniuse](https://caniuse.com/?search=font-palette) · [mdn](https://developer.mozilla.org/en-US/search?q=font-palette) · [spec](['https://drafts.csswg.org/css-fonts-4/#font-palette-prop', 'https://drafts.csswg.org/css-fonts-4/#font-palette-values'])
 
 The `font-palette` CSS property selects a color palette from the font, optionally overriding individual colors in the `@font-palette-values` at-rule.
 

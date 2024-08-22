@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Intl.ListFormat"
 tags: baseline-low intl
 ---
 
-[caniuse](https://caniuse.com/?search=intl-list-format) · [spec](https://tc39.es/ecma402/#listformat-objects)
+[caniuse](https://caniuse.com/?search=intl-list-format) · [mdn](https://developer.mozilla.org/en-US/search?q=Intl.ListFormat) · [spec](https://tc39.es/ecma402/#listformat-objects)
 
 The `Intl.ListFormat` API creates a locale-aware formatter that turns iterable objects into localized strings.
 

@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Set methods"
 tags: baseline-low sets
 ---
 
-[caniuse](https://caniuse.com/?search=set-methods) · [spec](https://tc39.es/proposal-set-methods/)
+[caniuse](https://caniuse.com/?search=set-methods) · [mdn](https://developer.mozilla.org/en-US/search?q=Set methods) · [spec](https://tc39.es/proposal-set-methods/)
 
 The `difference()`, `intersection()`, `isDisjointFrom()`, `isSubsetOf()`, `isSupersetOf()`, `symmetricDifference()`, and `union()` methods of the JavaScript `Set` object performs operations between two sets.
 

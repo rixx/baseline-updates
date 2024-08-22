@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Resizable buffers"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=resizable-buffers) · [spec](['https://tc39.es/ecma262/multipage/structured-data.html#sec-get-arraybuffer.prototype.resizable', 'https://tc39.es/ecma262/multipage/structured-data.html#sec-get-sharedarraybuffer.prototype.growable'])
+[caniuse](https://caniuse.com/?search=resizable-buffers) · [mdn](https://developer.mozilla.org/en-US/search?q=Resizable buffers) · [spec](['https://tc39.es/ecma262/multipage/structured-data.html#sec-get-arraybuffer.prototype.resizable', 'https://tc39.es/ecma262/multipage/structured-data.html#sec-get-sharedarraybuffer.prototype.growable'])
 
 The `resize()` method of an `ArrayBuffer` and the `grow()` method of a `SharedArrayBuffer`, constructed with the `maxByteLength` option, changes the size of the buffer in place.
 

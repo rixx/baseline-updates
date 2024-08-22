@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Compression streams"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=compression-streams) · [spec](https://compression.spec.whatwg.org/)
+[caniuse](https://caniuse.com/?search=compression-streams) · [mdn](https://developer.mozilla.org/en-US/search?q=Compression streams) · [spec](https://compression.spec.whatwg.org/)
 
 The `CompressionStream` and `DecompressionStream` interfaces compress and decompress data using the gzip or deflate formats.
 

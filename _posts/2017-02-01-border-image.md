@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Border images"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=border-image) · [spec](https://drafts.csswg.org/css-backgrounds-3/#border-images)
+[caniuse](https://caniuse.com/?search=border-image) · [mdn](https://developer.mozilla.org/en-US/search?q=Border images) · [spec](https://drafts.csswg.org/css-backgrounds-3/#border-images)
 
 The `border-image` CSS property draws an image around an element.
 

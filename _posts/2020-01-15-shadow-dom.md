@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Shadow DOM"
 tags: baseline-low web-components
 ---
 
-[caniuse](https://caniuse.com/?search=shadow-dom) · [spec](https://dom.spec.whatwg.org/#shadow-trees)
+[caniuse](https://caniuse.com/?search=shadow-dom) · [mdn](https://developer.mozilla.org/en-US/search?q=Shadow DOM) · [spec](https://dom.spec.whatwg.org/#shadow-trees)
 
 Shadow DOM allows you to attach encapsulated "shadow" DOM trees to elements. A shadow DOM tree is a separate component, isolated from the scripts and styles in other parts of the document. This is a part of Web Components.
 

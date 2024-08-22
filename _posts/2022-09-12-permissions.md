@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Permissions"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=permissions) · [spec](https://w3c.github.io/permissions/)
+[caniuse](https://caniuse.com/?search=permissions) · [mdn](https://developer.mozilla.org/en-US/search?q=Permissions) · [spec](https://w3c.github.io/permissions/)
 
 The `navigator.permissions` API checks whether a permission, such as access to geolocation data, has been granted.
 

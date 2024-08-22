@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Origin private file system"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=origin-private-file-system) · [spec](https://fs.spec.whatwg.org/#origin-private-file-system)
+[caniuse](https://caniuse.com/?search=origin-private-file-system) · [mdn](https://developer.mozilla.org/en-US/search?q=Origin private file system) · [spec](https://fs.spec.whatwg.org/#origin-private-file-system)
 
 The `navigator.storage.getDirectory()` method returns a `FileSystemDirectoryHandle` that is restricted to a specific origin and invisible to the user's actual file system for faster file-based applications, such as SQLite databases.
 

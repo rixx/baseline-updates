@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Resource size"
 tags: baseline-low resource-timing
 ---
 
-[caniuse](https://caniuse.com/?search=resource-size) · [spec](['https://w3c.github.io/resource-timing/#dom-performanceresourcetiming-decodedbodysize', 'https://w3c.github.io/resource-timing/#dom-performanceresourcetiming-encodedbodysize', 'https://w3c.github.io/resource-timing/#dom-performanceresourcetiming-transfersize'])
+[caniuse](https://caniuse.com/?search=resource-size) · [mdn](https://developer.mozilla.org/en-US/search?q=Resource size) · [spec](['https://w3c.github.io/resource-timing/#dom-performanceresourcetiming-decodedbodysize', 'https://w3c.github.io/resource-timing/#dom-performanceresourcetiming-encodedbodysize', 'https://w3c.github.io/resource-timing/#dom-performanceresourcetiming-transfersize'])
 
 The `decodedSize`, `encodedSize`, and `transferSize` properties of the `PerformanceResourceTiming` API reports the size of resources loaded.
 

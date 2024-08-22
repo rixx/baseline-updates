@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: color-scheme"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=color-scheme) · [spec](https://drafts.csswg.org/css-color-adjust-1/#color-scheme-prop)
+[caniuse](https://caniuse.com/?search=color-scheme) · [mdn](https://developer.mozilla.org/en-US/search?q=color-scheme) · [spec](https://drafts.csswg.org/css-color-adjust-1/#color-scheme-prop)
 
 The `color-scheme` CSS property sets which color schemes (light or dark) an element uses and may prevent automatic dark mode adjustments by the browser.
 

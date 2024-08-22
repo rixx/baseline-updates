@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Array.isArray()"
 tags: baseline-high arrays
 ---
 
-[caniuse](https://caniuse.com/?search=array-isarray) · [spec](https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.isarray)
+[caniuse](https://caniuse.com/?search=array-isarray) · [mdn](https://developer.mozilla.org/en-US/search?q=Array.isArray()) · [spec](https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.isarray)
 
 The `Array.isArray()` static method checks whether a value is an array.
 

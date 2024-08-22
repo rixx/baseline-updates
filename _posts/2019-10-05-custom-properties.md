@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Custom properties"
 tags: baseline-high
 ---
 
-[caniuse](https://caniuse.com/?search=custom-properties) · [spec](https://drafts.csswg.org/css-variables-1/)
+[caniuse](https://caniuse.com/?search=custom-properties) · [mdn](https://developer.mozilla.org/en-US/search?q=Custom properties) · [spec](https://drafts.csswg.org/css-variables-1/)
 
 Custom properties are CSS properties prefixed with `--` that set values you can reuse with the `var()` function. For example, you can set a `--key-color` property to reuse as `border-color: var(--key-color)`. Also known as CSS variables.
 

@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Transferable ArrayBuffer"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=transferable-arraybuffer) · [spec](https://tc39.es/proposal-arraybuffer-transfer/#sec-arraybuffer.prototype.transfer)
+[caniuse](https://caniuse.com/?search=transferable-arraybuffer) · [mdn](https://developer.mozilla.org/en-US/search?q=Transferable ArrayBuffer) · [spec](https://tc39.es/proposal-arraybuffer-transfer/#sec-arraybuffer.prototype.transfer)
 
 The `transfer()` and `transferToFixedLength()` methods of `ArrayBuffer` move a buffer from one context to another (for example, to a worker).
 

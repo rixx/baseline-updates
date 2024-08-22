@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: AudioWorklet"
 tags: baseline-low web-audio
 ---
 
-[caniuse](https://caniuse.com/?search=audio-worklet) · [spec](https://webaudio.github.io/web-audio-api/#AudioWorklet)
+[caniuse](https://caniuse.com/?search=audio-worklet) · [mdn](https://developer.mozilla.org/en-US/search?q=AudioWorklet) · [spec](https://webaudio.github.io/web-audio-api/#AudioWorklet)
 
 The `AudioWorklet` API runs module code in a separate thread, specifically for non-blocking, low latency audio processing.
 

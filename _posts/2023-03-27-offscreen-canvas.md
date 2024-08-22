@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Offscreen canvas"
 tags: baseline-low canvas
 ---
 
-[caniuse](https://caniuse.com/?search=offscreen-canvas) · [spec](https://html.spec.whatwg.org/multipage/canvas.html#the-offscreencanvas-interface)
+[caniuse](https://caniuse.com/?search=offscreen-canvas) · [mdn](https://developer.mozilla.org/en-US/search?q=Offscreen canvas) · [spec](https://html.spec.whatwg.org/multipage/canvas.html#the-offscreencanvas-interface)
 
 The `OffscreenCanvas` API provides a canvas that can be drawn to off screen, with no dependencies on the DOM, which can be used to run heavy rendering operations inside a worker context.
 

@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Intl.PluralRules"
 tags: baseline-low intl
 ---
 
-[caniuse](https://caniuse.com/?search=intl-plural-rules) · [spec](https://tc39.es/ecma402/#pluralrules-objects)
+[caniuse](https://caniuse.com/?search=intl-plural-rules) · [mdn](https://developer.mozilla.org/en-US/search?q=Intl.PluralRules) · [spec](https://tc39.es/ecma402/#pluralrules-objects)
 
 The `Intl.PluralRules` API creates a locale-aware object that tells you which of the language's pluralization rules apply based on a given number.
 

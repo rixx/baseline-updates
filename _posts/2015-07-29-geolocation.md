@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Geolocation"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=geolocation) · [spec](https://w3c.github.io/geolocation/)
+[caniuse](https://caniuse.com/?search=geolocation) · [mdn](https://developer.mozilla.org/en-US/search?q=Geolocation) · [spec](https://w3c.github.io/geolocation/)
 
 The `navigator.gelocation` API requests the user's latitude, longitude, heading, and speed.
 

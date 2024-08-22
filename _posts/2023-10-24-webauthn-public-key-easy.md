@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Web authentication easy public key access"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=webauthn-public-key-easy) · [spec](https://w3c.github.io/webauthn/#sctn-public-key-easy)
+[caniuse](https://caniuse.com/?search=webauthn-public-key-easy) · [mdn](https://developer.mozilla.org/en-US/search?q=Web authentication easy public key access) · [spec](https://w3c.github.io/webauthn/#sctn-public-key-easy)
 
 The `getAuthenticatorData()`, `getPublicKey()`, and `getPublicKeyAlgorithm()` methods of `AuthenticatorAttestationResponse` access credential data inside `attestationObject` without the need to parse it.
 

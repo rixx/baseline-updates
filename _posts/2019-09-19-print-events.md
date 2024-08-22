@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Print events"
 tags: baseline-low print
 ---
 
-[caniuse](https://caniuse.com/?search=print-events) · [spec](['https://html.spec.whatwg.org/multipage/indices.html#event-afterprint', 'https://html.spec.whatwg.org/multipage/indices.html#event-beforeprint'])
+[caniuse](https://caniuse.com/?search=print-events) · [mdn](https://developer.mozilla.org/en-US/search?q=Print events) · [spec](['https://html.spec.whatwg.org/multipage/indices.html#event-afterprint', 'https://html.spec.whatwg.org/multipage/indices.html#event-beforeprint'])
 
 An alternative to `@media print` queries, the `beforeprint` and `afterprint` events allow you to change the page for printing and and restore the page after printing.
 

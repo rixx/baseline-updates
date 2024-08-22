@@ -4,7 +4,7 @@ title: "New in High Baseline Support: background-clip"
 tags: baseline-high
 ---
 
-[caniuse](https://caniuse.com/?search=background-clip) · [spec](https://drafts.csswg.org/css-backgrounds-3/#background-clip)
+[caniuse](https://caniuse.com/?search=background-clip) · [mdn](https://developer.mozilla.org/en-US/search?q=background-clip) · [spec](https://drafts.csswg.org/css-backgrounds-3/#background-clip)
 
 The `background-clip` CSS property sets the extent of the background: the padding box, the content box, or the default border box.
 

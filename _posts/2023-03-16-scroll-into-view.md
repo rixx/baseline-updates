@@ -4,7 +4,7 @@ title: "New in High Baseline Support: scrollIntoView()"
 tags: baseline-high scrolling
 ---
 
-[caniuse](https://caniuse.com/?search=scroll-into-view) · [spec](https://drafts.csswg.org/cssom-view-1/#dom-element-scrollintoview)
+[caniuse](https://caniuse.com/?search=scroll-into-view) · [mdn](https://developer.mozilla.org/en-US/search?q=scrollIntoView()) · [spec](https://drafts.csswg.org/cssom-view-1/#dom-element-scrollintoview)
 
 The `scrollIntoView()` method scrolls an element's ancestor containers such that the element is visible to the user.
 

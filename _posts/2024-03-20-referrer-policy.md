@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Referrer policy"
 tags: baseline-high
 ---
 
-[caniuse](https://caniuse.com/?search=referrer-policy) · [spec](https://w3c.github.io/webappsec-referrer-policy/)
+[caniuse](https://caniuse.com/?search=referrer-policy) · [mdn](https://developer.mozilla.org/en-US/search?q=Referrer policy) · [spec](https://w3c.github.io/webappsec-referrer-policy/)
 
 The `Referrer-Policy` HTTP header and `referrerpolicy` HTML attributes control whether requests have the `Referer` header and what information the header contains.
 

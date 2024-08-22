@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Text tracks"
 tags: baseline-low media-elements html-elements
 ---
 
-[caniuse](https://caniuse.com/?search=text-tracks) · [spec](https://html.spec.whatwg.org/multipage/media.html#timed-text-tracks)
+[caniuse](https://caniuse.com/?search=text-tracks) · [mdn](https://developer.mozilla.org/en-US/search?q=Text tracks) · [spec](https://html.spec.whatwg.org/multipage/media.html#timed-text-tracks)
 
 The `<track>` element is used as a child of the media elements that lets you specify a timed text track to be displayed in parallel with the media element.
 

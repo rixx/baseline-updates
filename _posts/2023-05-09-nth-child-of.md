@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: :nth-child() of <selector>"
 tags: baseline-low css
 ---
 
-[caniuse](https://caniuse.com/?search=nth-child-of) · [spec](['https://drafts.csswg.org/selectors-4/#the-nth-child-pseudo', 'https://drafts.csswg.org/selectors-4/#the-nth-last-child-pseudo'])
+[caniuse](https://caniuse.com/?search=nth-child-of) · [mdn](https://developer.mozilla.org/en-US/search?q=:nth-child() of <selector>) · [spec](['https://drafts.csswg.org/selectors-4/#the-nth-child-pseudo', 'https://drafts.csswg.org/selectors-4/#the-nth-last-child-pseudo'])
 
 The `of` syntax for the `:nth-child()` and `:nth-last-child()` CSS functional pseudo-classes match elements by the relative position of elements, counted from the first or last sibling matching a selector list.
 

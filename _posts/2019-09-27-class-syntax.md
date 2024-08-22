@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Classes"
 tags: baseline-high javascript
 ---
 
-[caniuse](https://caniuse.com/?search=class-syntax) · [spec](https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html#sec-class-definitions)
+[caniuse](https://caniuse.com/?search=class-syntax) · [mdn](https://developer.mozilla.org/en-US/search?q=Classes) · [spec](https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html#sec-class-definitions)
 
 Classes are an object-oriented syntax for JavaScript prototypes.
 

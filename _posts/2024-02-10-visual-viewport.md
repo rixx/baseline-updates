@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Visual viewport API"
 tags: baseline-high
 ---
 
-[caniuse](https://caniuse.com/?search=visual-viewport) · [spec](https://drafts.csswg.org/cssom-view-1/#visualViewport)
+[caniuse](https://caniuse.com/?search=visual-viewport) · [mdn](https://developer.mozilla.org/en-US/search?q=Visual viewport API) · [spec](https://drafts.csswg.org/cssom-view-1/#visualViewport)
 
 The `visualViewport` API provides a way to query and modify the user-visible viewport of a web page.
 

@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Motion path"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=motion-path) · [spec](https://drafts.fxtf.org/motion-1/)
+[caniuse](https://caniuse.com/?search=motion-path) · [mdn](https://developer.mozilla.org/en-US/search?q=Motion path) · [spec](https://drafts.fxtf.org/motion-1/)
 
 The `offset` CSS property animates an element along a defined motion path.
 

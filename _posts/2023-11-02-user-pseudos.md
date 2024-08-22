@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: :user-valid and :user-invalid"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=user-pseudos) · [spec](https://drafts.csswg.org/selectors-4/#user-pseudos)
+[caniuse](https://caniuse.com/?search=user-pseudos) · [mdn](https://developer.mozilla.org/en-US/search?q=:user-valid and :user-invalid) · [spec](https://drafts.csswg.org/selectors-4/#user-pseudos)
 
 The `:user-valid` and `:user-invalid` pseudo-classes match form controls that have been marked as valid or invalid based on their validation constraints.
 

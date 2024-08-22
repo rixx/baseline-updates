@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: font-variant-alternates"
 tags: baseline-low fonts
 ---
 
-[caniuse](https://caniuse.com/?search=font-variant-alternates) · [spec](https://drafts.csswg.org/css-fonts-4/#font-variant-alternates-prop)
+[caniuse](https://caniuse.com/?search=font-variant-alternates) · [mdn](https://developer.mozilla.org/en-US/search?q=font-variant-alternates) · [spec](https://drafts.csswg.org/css-fonts-4/#font-variant-alternates-prop)
 
 The `font-variant-alternates` CSS property, along with the `@font-feature-values` at-rule, chooses when to use a font's alternate glyphs.
 

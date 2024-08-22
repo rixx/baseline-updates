@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: WebRTC SCTP information"
 tags: baseline-low webrtc
 ---
 
-[caniuse](https://caniuse.com/?search=webrtc-sctp) · [spec](https://w3c.github.io/webrtc-pc/#rtcsctptransport-interface)
+[caniuse](https://caniuse.com/?search=webrtc-sctp) · [mdn](https://developer.mozilla.org/en-US/search?q=WebRTC SCTP information) · [spec](https://w3c.github.io/webrtc-pc/#rtcsctptransport-interface)
 
 The `sctp` object on `RTCPeerConnection` represents the negotiated SCTP transport. SCTP (Stream Control Transmission Protocol) is the protocol that `RTCDataChannel` uses.
 

@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Conic gradients"
 tags: baseline-low gradients
 ---
 
-[caniuse](https://caniuse.com/?search=conic-gradients) · [spec](https://drafts.csswg.org/css-images-4/#conic-gradients)
+[caniuse](https://caniuse.com/?search=conic-gradients) · [mdn](https://developer.mozilla.org/en-US/search?q=Conic gradients) · [spec](https://drafts.csswg.org/css-images-4/#conic-gradients)
 
 The `conic-gradient()` and `repeating-conic-gradient()` CSS functions create backgrounds that progress between two or more colors around a center point.
 

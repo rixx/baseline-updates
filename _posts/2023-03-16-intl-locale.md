@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Intl.Locale"
 tags: baseline-high intl
 ---
 
-[caniuse](https://caniuse.com/?search=intl-locale) · [spec](https://tc39.es/ecma402/#locale-objects)
+[caniuse](https://caniuse.com/?search=intl-locale) · [mdn](https://developer.mozilla.org/en-US/search?q=Intl.Locale) · [spec](https://tc39.es/ecma402/#locale-objects)
 
 The `Intl.Locale` API parses Unicode locale identifiers, with language, region, and script codes, such as `zh-Hans-CN` or `en-GB`.
 

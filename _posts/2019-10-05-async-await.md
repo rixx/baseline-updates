@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Async functions"
 tags: baseline-high javascript
 ---
 
-[caniuse](https://caniuse.com/?search=async-await) · [spec](https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html#sec-async-function-definitions)
+[caniuse](https://caniuse.com/?search=async-await) · [mdn](https://developer.mozilla.org/en-US/search?q=Async functions) · [spec](https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html#sec-async-function-definitions)
 
 The `async` and `await` keywords allow you to use the asynchronous, promise-based behavior of a function without using promise chains.
 

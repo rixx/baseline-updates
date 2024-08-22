@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: font-size-adjust"
 tags: baseline-low fonts
 ---
 
-[caniuse](https://caniuse.com/?search=font-size-adjust) · [spec](https://drafts.csswg.org/css-fonts-5/#font-size-adjust-prop)
+[caniuse](https://caniuse.com/?search=font-size-adjust) · [mdn](https://developer.mozilla.org/en-US/search?q=font-size-adjust) · [spec](https://drafts.csswg.org/css-fonts-5/#font-size-adjust-prop)
 
 The `font-size-adjust` CSS property preserves apparent text size, regardless of the font used, by scaling fonts to the same size with respect to a specific metric, such as x-height. This can help make fallback fonts look the same size.
 

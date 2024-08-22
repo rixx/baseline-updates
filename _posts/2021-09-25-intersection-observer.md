@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Intersection observer"
 tags: baseline-high
 ---
 
-[caniuse](https://caniuse.com/?search=intersection-observer) · [spec](https://w3c.github.io/IntersectionObserver/)
+[caniuse](https://caniuse.com/?search=intersection-observer) · [mdn](https://developer.mozilla.org/en-US/search?q=Intersection observer) · [spec](https://w3c.github.io/IntersectionObserver/)
 
 The Intersection Observer API asynchronously observes changes in the intersection of a target element with an ancestor element or with a top-level document's viewport.
 

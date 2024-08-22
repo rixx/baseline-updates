@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Resource timing (initial support)"
 tags: baseline-low resource-timing
 ---
 
-[caniuse](https://caniuse.com/?search=resource-timing) · [spec](https://w3c.github.io/resource-timing/)
+[caniuse](https://caniuse.com/?search=resource-timing) · [mdn](https://developer.mozilla.org/en-US/search?q=Resource timing (initial support)) · [spec](https://w3c.github.io/resource-timing/)
 
 `PerformanceResourceTiming` entries report when network events happen while loading a resource, such as when connections start and end. You can use this information to measure loading times.
 

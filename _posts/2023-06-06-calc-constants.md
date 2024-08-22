@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: calc() constants"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=calc-constants) · [spec](https://drafts.csswg.org/css-values-4/#calc-keywords)
+[caniuse](https://caniuse.com/?search=calc-constants) · [mdn](https://developer.mozilla.org/en-US/search?q=calc() constants) · [spec](https://drafts.csswg.org/css-values-4/#calc-keywords)
 
 The `e`, `pi`, `infinity`, and `NaN` constants are accepted in CSS math functions such as `calc()`.
 

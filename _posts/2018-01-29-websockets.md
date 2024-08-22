@@ -4,7 +4,7 @@ title: "New in High Baseline Support: WebSockets"
 tags: baseline-high
 ---
 
-[caniuse](https://caniuse.com/?search=websockets) · [spec](https://websockets.spec.whatwg.org/)
+[caniuse](https://caniuse.com/?search=websockets) · [mdn](https://developer.mozilla.org/en-US/search?q=WebSockets) · [spec](https://websockets.spec.whatwg.org/)
 
 The `WebSocket` API opens a two-way communication channel between the user's browser and a server.
 

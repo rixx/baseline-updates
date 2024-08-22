@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Fetch metadata request headers"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=fetch-metadata) · [spec](https://w3c.github.io/webappsec-fetch-metadata/)
+[caniuse](https://caniuse.com/?search=fetch-metadata) · [mdn](https://developer.mozilla.org/en-US/search?q=Fetch metadata request headers) · [spec](https://w3c.github.io/webappsec-fetch-metadata/)
 
 The `Sec-Fetch-Dest`, `Sec-Fetch-Mode, `Sec-Fetch-Site`, and `Sec-Fetch-User` HTTP headers provide extra information about the way a request was made, to help servers reject certain kinds of malicious requests.
 

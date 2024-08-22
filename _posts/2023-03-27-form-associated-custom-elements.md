@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Form-associated custom elements"
 tags: baseline-low custom-elements forms
 ---
 
-[caniuse](https://caniuse.com/?search=form-associated-custom-elements) · [spec](https://html.spec.whatwg.org/multipage/custom-elements.html#form-associated-custom-elements)
+[caniuse](https://caniuse.com/?search=form-associated-custom-elements) · [mdn](https://developer.mozilla.org/en-US/search?q=Form-associated custom elements) · [spec](https://html.spec.whatwg.org/multipage/custom-elements.html#form-associated-custom-elements)
 
 Custom elements may act like built-in form elements, via the the `attachInternals()` method of `HTMLElement` and the `ElementInternals` API.
 

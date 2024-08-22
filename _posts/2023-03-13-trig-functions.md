@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: sin(), cos(), tan(), asin(), acos(), atan()
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=trig-functions) · [spec](https://drafts.csswg.org/css-values-4/#trig-funcs)
+[caniuse](https://caniuse.com/?search=trig-functions) · [mdn](https://developer.mozilla.org/en-US/search?q=sin(), cos(), tan(), asin(), acos(), atan(), and atan2() (CSS)) · [spec](https://drafts.csswg.org/css-values-4/#trig-funcs)
 
 The `sin()`, `cos()`, `tan()`, `asin()`, `acos()`, `atan()`, and `atan2()` CSS functions compute various trigonometric functions.
 

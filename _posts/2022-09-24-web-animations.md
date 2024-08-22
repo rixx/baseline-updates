@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Web animations"
 tags: baseline-high
 ---
 
-[caniuse](https://caniuse.com/?search=web-animations) · [spec](https://drafts.csswg.org/web-animations-1/)
+[caniuse](https://caniuse.com/?search=web-animations) · [mdn](https://developer.mozilla.org/en-US/search?q=Web animations) · [spec](https://drafts.csswg.org/web-animations-1/)
 
 The web animations API allows you to animate and synchronize the animations of DOM elements.
 

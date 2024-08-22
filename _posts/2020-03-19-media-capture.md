@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Media capture"
 tags: baseline-high
 ---
 
-[caniuse](https://caniuse.com/?search=media-capture) · [spec](https://w3c.github.io/mediacapture-main/)
+[caniuse](https://caniuse.com/?search=media-capture) · [mdn](https://developer.mozilla.org/en-US/search?q=Media capture) · [spec](https://w3c.github.io/mediacapture-main/)
 
 The `navigator.mediaDevices.getUserMedia()` API requests access to devices that produce audio or video streams, such as microphones or video cameras.
 

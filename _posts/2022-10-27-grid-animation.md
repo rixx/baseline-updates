@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Grid animation"
 tags: baseline-low grid
 ---
 
-[caniuse](https://caniuse.com/?search=grid-animation) · [spec](https://drafts.csswg.org/css-grid-2/#track-sizing)
+[caniuse](https://caniuse.com/?search=grid-animation) · [mdn](https://developer.mozilla.org/en-US/search?q=Grid animation) · [spec](https://drafts.csswg.org/css-grid-2/#track-sizing)
 
 Grid animation allows you to animate the `grid-template-columns` and `grid-template-rows` CSS properties.
 

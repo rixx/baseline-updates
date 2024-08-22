@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Intl.Segmenter"
 tags: baseline-low intl
 ---
 
-[caniuse](https://caniuse.com/?search=intl-segmenter) · [spec](https://tc39.es/ecma402/#segmenter-objects)
+[caniuse](https://caniuse.com/?search=intl-segmenter) · [mdn](https://developer.mozilla.org/en-US/search?q=Intl.Segmenter) · [spec](https://tc39.es/ecma402/#segmenter-objects)
 
 The `Intl.Segmenter` API creates a locale-aware text splitter that can separate a string into meaningful graphemes, words, or sentences.
 

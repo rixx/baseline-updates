@@ -76,7 +76,7 @@ title: "{escaped_title}"
 tags: {tags}
 ---
 
-[caniuse](https://caniuse.com/?search={feature['name']})"""
+[caniuse](https://caniuse.com/?search={feature['name']}) · [mdn](https://developer.mozilla.org/en-US/search?q={feature['details']['name']})"""
     if "spec" in feature["details"]:
         content += f" · [spec]({feature['details']['spec']})"
     content += "\n\n"

@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Array grouping"
 tags: baseline-low maps
 ---
 
-[caniuse](https://caniuse.com/?search=array-group) · [spec](https://tc39.es/proposal-array-grouping/)
+[caniuse](https://caniuse.com/?search=array-group) · [mdn](https://developer.mozilla.org/en-US/search?q=Array grouping) · [spec](https://tc39.es/proposal-array-grouping/)
 
 The `Object.groupBy()` and `Map.groupBy()` static methods group values of arrays and iterables based on a function that returns a key for each value.
 

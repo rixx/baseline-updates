@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: counter-set"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=counter-set) · [spec](https://drafts.csswg.org/css-lists-3/#propdef-counter-set)
+[caniuse](https://caniuse.com/?search=counter-set) · [mdn](https://developer.mozilla.org/en-US/search?q=counter-set) · [spec](https://drafts.csswg.org/css-lists-3/#propdef-counter-set)
 
 The `counter-set` CSS property creates (and optionally sets a value for) a counter, the numbers for a series of headings or ordered list items.
 

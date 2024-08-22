@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: Unsanitized HTML parsing methods"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=parse-html-unsafe) · [spec](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#unsafe-html-parsing-methods)
+[caniuse](https://caniuse.com/?search=parse-html-unsafe) · [mdn](https://developer.mozilla.org/en-US/search?q=Unsanitized HTML parsing methods) · [spec](https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#unsafe-html-parsing-methods)
 
 The `Document.parseHTMLUnsafe()` static method parses HTML into a DOM tree, while the `setHTMLUnsafe()` method of `Element` and `ShadowRoot` parses and inserts HTML into an existing tree. No sanitization applies to these methods, so never call them with user-provided HTML strings.
 

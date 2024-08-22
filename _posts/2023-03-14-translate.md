@@ -4,7 +4,7 @@ title: "New in Low Baseline Support: translate attribute"
 tags: baseline-low
 ---
 
-[caniuse](https://caniuse.com/?search=translate) · [spec](https://html.spec.whatwg.org/multipage/dom.html#attr-translate)
+[caniuse](https://caniuse.com/?search=translate) · [mdn](https://developer.mozilla.org/en-US/search?q=translate attribute) · [spec](https://html.spec.whatwg.org/multipage/dom.html#attr-translate)
 
 The `translate` HTML attribute marks whether an element's text should be translated.
 

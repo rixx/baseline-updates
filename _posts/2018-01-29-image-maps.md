@@ -4,7 +4,7 @@ title: "New in High Baseline Support: Image maps"
 tags: baseline-high html-elements
 ---
 
-[caniuse](https://caniuse.com/?search=image-maps) · [spec](https://html.spec.whatwg.org/multipage/image-maps.html)
+[caniuse](https://caniuse.com/?search=image-maps) · [mdn](https://developer.mozilla.org/en-US/search?q=Image maps) · [spec](https://html.spec.whatwg.org/multipage/image-maps.html)
 
 The `<area>` and `<map>` elements define a clickable area on an image.
 
