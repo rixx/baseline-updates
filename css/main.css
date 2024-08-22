@@ -56,3 +56,6 @@ ul.post-list {
         }
     }
 }
+details summary {
+    cursor: pointer;
+}
