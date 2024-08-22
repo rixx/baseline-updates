@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Tags'
+---
+
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+    <h2 id="{{ tag[0] }}">
+        <a href="#{{ tag[0] }}" style="text-decoration: none">🔗</a>
+        <a href="/feed/by_tag/{{ tag[0] }}.xml"><img height=24 style="margin-bottom: -4px" src="/assets/rss.png"></a>
+        {{ tag[0] }}
+    </h2>
+    <details>
+        <summary>{{ tag[1] | size }} Posts, last update {{ tag[1][0].date | date: "%Y-%m-%d" }}</summary>
+        <ul class="post-list">
+          {%- assign date_format = "%b %-d, %Y" -%}
+          {%- for post in tag[1] -%}
+          <li>
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+              {% if post.tags %}
+                <p class="post-tags">
+                  {% for tag in post.tags %}
+                    <small class="post-tag"><a href="{{ site.baseurl }}/tag/{{ tag | slugify }}/">{{ tag }}</a></small>
+                  {% endfor %}
+                </p>
+              {% endif %}
+            </h3>
+            {%- if site.show_excerpts -%}
+              {{ post.excerpt }}
+            {%- endif -%}
+          </li>
+          {%- endfor -%}
+        </ul>
+    </details>
+{% endfor %}
