@@ -1,0 +1,48 @@
+---
+layout: base
+---
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+  {%- if posts.size > 0 -%}
+    <h2 class="post-list-heading">
+      {% if page.url != "/" %}
+        <a href="/" class="home-link">🏠</a>
+      {% endif %}
+      {%- if page.list_title -%}
+        {{ page.list_title }}
+      {% else %}
+        {{ page.title | default: site.title }}
+      {%- endif -%}
+    </h2>
+
+  {{ content }}
+
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+          {% if post.tags %}
+            <p class="post-tags">
+              {% for tag in post.tags %}
+                <small class="post-tag"><a href="{{ site.baseurl }}/tag/{{ tag | slugify }}/">{{ tag }}</a></small>
+              {% endfor %}
+            </p>
+          {% endif %}
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
