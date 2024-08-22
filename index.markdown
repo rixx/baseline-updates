@@ -5,4 +5,4 @@
 layout: post_list
 ---
 
-Updates to the Baseline collection. Including RSS feeds (both for all updates and [individual tags]({{ site.baseurl }}/tags/)): <a href="{{ site.baseurl }}/feed.xml" style="display: inline; margin-left: 4px"><img height=24 style="margin-bottom: -4px" src="/assets/rss.png"></a>
+Updates to the Baseline collection. Including RSS feeds (both for all updates and [individual tags]({{ site.baseurl }}/tags/)): <a href="{{ site.baseurl }}/feed.xml" style="display: inline; margin-left: 4px"><img height=24 style="margin-bottom: -4px" src="{{ site.baseurl }}/assets/rss.png"></a>
