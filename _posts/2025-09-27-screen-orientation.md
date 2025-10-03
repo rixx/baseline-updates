@@ -1,0 +1,17 @@
+---
+layout: post
+title: "New in High Baseline Support: Screen orientation"
+tags: baseline-high
+---
+
+[caniuse](https://caniuse.com/?search=screen-orientation) · [mdn](https://developer.mozilla.org/en-US/search?q=Screen orientation) · [spec](https://w3c.github.io/screen-orientation/)
+
+The `screen.orientation` API gets information about the orientation of the viewport, such as landscape or portrait. With this API, you can adapt an application's layout or behavior in response to changes in orientation.
+
+### Source features
+
+- ``api.ScreenOrientation`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.ScreenOrientation)
+- ``api.ScreenOrientation.angle`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.ScreenOrientation.angle)
+- ``api.ScreenOrientation.change_event`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.ScreenOrientation.change_event)
+- ``api.ScreenOrientation.type`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.ScreenOrientation.type)
+- ``api.Screen.orientation`` [[mdn]](https://developer.mozilla.org/en-US/search?q=api.Screen.orientation)

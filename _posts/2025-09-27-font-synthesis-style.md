@@ -1,0 +1,15 @@
+---
+layout: post
+title: "New in High Baseline Support: font-synthesis-style"
+tags: baseline-high font-synthesis
+---
+
+[caniuse](https://caniuse.com/?search=font-synthesis-style) · [mdn](https://developer.mozilla.org/en-US/search?q=font-synthesis-style) · [spec](https://drafts.csswg.org/css-fonts-4/#font-synthesis-style)
+
+The `font-synthesis-style` CSS property sets whether or not the browser should synthesize italic and oblique typefaces when they're missing from the font.
+
+### Source features
+
+- ``css.properties.font-synthesis-style`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-style)
+- ``css.properties.font-synthesis-style.auto`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-style.auto)
+- ``css.properties.font-synthesis-style.none`` [[mdn]](https://developer.mozilla.org/en-US/search?q=css.properties.font-synthesis-style.none)
