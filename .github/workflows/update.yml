@@ -19,16 +19,16 @@ jobs:
     runs-on: ubuntu-latest
     name: Update data
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           ref: ${{ github.head_ref }}
           path: baseline-updates
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           repository: web-platform-dx/web-features
           path: web-features
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           cache: "pip"
       - name: Install requirements
@@ -36,7 +36,7 @@ jobs:
           python -m pip install -r ./baseline-updates/bin/requirements.txt
       - name: Run update script
         run: python ./baseline-updates/bin/update.py
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: New baseline information
           repository: baseline-updates
